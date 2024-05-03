@@ -1,0 +1,1253 @@
+[
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/707",
+    "latitude": "39.85938333306",
+    "longitude": "3.0598559975624",
+    "location": "Pollença",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/4033",
+    "latitude": "39.66197703482441",
+    "longitude": "2.5948328625488557",
+    "location": "Esporles",
+    "manager": "PREDIO SON QUINT S.L. (B57130650)  des de 02/10/2023"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7047",
+    "latitude": "39.755688",
+    "longitude": "3.123581",
+    "location": "Muro",
+    "manager": "SA TANCASSA DEN LLIGAT, SL (B57890998)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/29",
+    "latitude": "39.738972",
+    "longitude": "3.220828",
+    "location": "Santa Margalida",
+    "manager": "FINCAS BLAU MEDITERRANI SLU (B57402083)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/183",
+    "latitude": "39.628738",
+    "longitude": "3.39678",
+    "location": "Son Servera",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/6111",
+    "latitude": "39.876171",
+    "longitude": "3.000533",
+    "location": "Pollença",
+    "manager": "GALMES-CIFRE C.B. (E57877979)"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/1158",
+    "latitude": "39.7624",
+    "longitude": "2.90531",
+    "location": "Selva",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/4069",
+    "latitude": "39.67938",
+    "longitude": "3.4544",
+    "location": "Capdepera",
+    "manager": "BALEARIA GUEST SL (B57727448)"
+  },
+  {
+    "hostName": "SUN CLUB Home",
+    "hostCountry": "Germany",
+    "license": "ETV/2458",
+    "latitude": "39.50373",
+    "longitude": "2.90109",
+    "location": "Llucmajor",
+    "manager": "SARATOGA MANAGEMENT SL (B16595647)  des de 27/11/2019"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/2290",
+    "latitude": "39.83782",
+    "longitude": "3.15199",
+    "location": "Alcúdia",
+    "manager": "VILLASMAR MALLORCA, SL (B57742793)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/2164",
+    "latitude": "39.856693",
+    "longitude": "3.059285",
+    "location": "Pollença",
+    "manager": "CONSTRUCCIONES CERDA SEGUI, SL (B07082332)"
+  },
+  {
+    "hostName": "Chris",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/11500",
+    "latitude": "39.43995",
+    "longitude": "3.24382",
+    "location": "Felanitx",
+    "manager": "GOYA BALEARES, SL (B16522815)  des de 30/06/2017"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/2963",
+    "latitude": "39.80177",
+    "longitude": "3.01283",
+    "location": "Sa Pobla",
+    "manager": "UBAC SA POBLA CB (E57368060)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/8127",
+    "latitude": "39.73687",
+    "longitude": "3.12714",
+    "location": "Santa Margalida",
+    "manager": "ROASPA SL (B07454259)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/2030",
+    "latitude": "39.6548",
+    "longitude": "3.108567",
+    "location": "Ariany",
+    "manager": "SES OLIVERES DE SA CANOVA C.B. (E16586414)  des de 12/07/2018"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/274",
+    "latitude": "39.86283",
+    "longitude": "3.14432",
+    "location": "Alcúdia",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4343",
+    "latitude": "39.41058",
+    "longitude": "3.260306",
+    "location": "Felanitx",
+    "manager": "MOBLES SA BODEGA SL (B07673270)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/887",
+    "latitude": "39.748161",
+    "longitude": "3.000035",
+    "location": "Búger",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3436",
+    "latitude": "39.365776",
+    "longitude": "3.210446",
+    "location": "Santanyí",
+    "manager": "BORN 21, SL (B57326118)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3329",
+    "latitude": "39.691692",
+    "longitude": "3.453275",
+    "location": "Capdepera",
+    "manager": "23 D'ABRIL 07, SL (B01806470)  des de 16/02/2021"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/8205",
+    "latitude": "39.75872",
+    "longitude": "2.98529",
+    "location": "Búger",
+    "manager": "GRANS VILES ES PLA, S.L (B57959777)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2307",
+    "latitude": "39.39280360154797",
+    "longitude": "3.072429204073302",
+    "location": "Campos",
+    "manager": "CONSTRUCCIONS GRAN VIOBRA, SL (B07937923)"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1271",
+    "latitude": "39.86161",
+    "longitude": "3.00935",
+    "location": "Pollença",
+    "manager": "PORTVIL, SLU (B07620305)"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VT/1544",
+    "latitude": "39.71568",
+    "longitude": "3.4637",
+    "location": "Capdepera",
+    "manager": "EXPLOTACION HOTELERA CALA MILLOR SL (B07676836)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/8020",
+    "latitude": "39.362152",
+    "longitude": "3.227477",
+    "location": "Santanyí",
+    "manager": "SA CALETA 2017 C.B (E57995383)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3088",
+    "latitude": "39.437237",
+    "longitude": "2.753464",
+    "location": "Llucmajor",
+    "manager": "REDREMA CONSULTING SL (B57905762)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/13809",
+    "latitude": "39.628349",
+    "longitude": "3.312901",
+    "location": "Sant Llorenç des Cardassar",
+    "manager": "ROSTO FINCAS SL (B16530800)  des de 01/04/2019"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "ETVPL/12848",
+    "latitude": "39.42132",
+    "longitude": "3.26099",
+    "location": "Felanitx",
+    "manager": "CARNICERIA MARICARMEN S.L (B07655780)  des de 08/10/2018"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "VT/1824",
+    "latitude": "39.85392",
+    "longitude": "3.12462",
+    "location": "Alcúdia",
+    "manager": "BELLMON REAL ESTATE AGENCY, SL (B57131880)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7228",
+    "latitude": "39.395496",
+    "longitude": "3.072778",
+    "location": "Campos",
+    "manager": "GAL·LERINS CONSTRUCCIONS SL (B07818222)"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1115",
+    "latitude": "39.8909",
+    "longitude": "3.05616",
+    "location": "Pollença",
+    "manager": "INVERSIONS TURÍSTIQUES DE POLLENÇA,SL (B57642167)"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/3173",
+    "latitude": "39.3752",
+    "longitude": "2.97912",
+    "location": "Campos",
+    "manager": "MARINASSA CAMPANERA SL (B57426538)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/855",
+    "latitude": "39.603155930286505",
+    "longitude": "3.0776622796570337",
+    "location": "Petra",
+    "manager": "INVERSIONES PEMARBUR, S.L. (B57291833)"
+  },
+  {
+    "hostName": "Chris",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/5441",
+    "latitude": "39.54788",
+    "longitude": "3.30863",
+    "location": "Manacor",
+    "manager": "GOYA BALEARES, SL (B16522815)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1668",
+    "latitude": "39.858444",
+    "longitude": "3.045057",
+    "location": "Pollença",
+    "manager": "PROYECTOS URBANISTICOS NORTE, S.L. (B07662547)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/9805",
+    "latitude": "39.628685",
+    "longitude": "3.348922",
+    "location": "Son Servera",
+    "manager": "SON CULLERA SL (B57972952)"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "ETVPL/14869",
+    "latitude": "39.79997",
+    "longitude": "2.69504",
+    "location": "Sóller",
+    "manager": "DEEP BLUE ESTATES SLU (B16654022)  des de 14/07/2020"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/707",
+    "latitude": "39.86038",
+    "longitude": "3.06031",
+    "location": "Pollença",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4746",
+    "latitude": "39.450928",
+    "longitude": "3.262769",
+    "location": "Manacor",
+    "manager": "SON GANXO, C.B. (E57879165)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4906",
+    "latitude": "39.610329",
+    "longitude": "3.113019",
+    "location": "Petra",
+    "manager": "AGILIDAD SL (B07626799)"
+  },
+  {
+    "hostName": "Rafaela Belvilla",
+    "hostCountry": "Switzerland",
+    "license": "ETV/1152",
+    "latitude": "39.67703",
+    "longitude": "2.80242",
+    "location": "Consell",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "Chris",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/11250",
+    "latitude": "39.56018",
+    "longitude": "2.37816",
+    "location": "Andratx",
+    "manager": "CLOTEIXAIRES, SL (B57534240)  des de 21/06/2017"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/455",
+    "latitude": "39.39397766528084",
+    "longitude": "3.086523858230521",
+    "location": "Campos",
+    "manager": "GESTIÓN Y MANTENIMIENTO SL (B07133549)"
+  },
+  {
+    "hostName": "Bruno",
+    "hostCountry": "France",
+    "license": "ETV/10356",
+    "latitude": "39.43409",
+    "longitude": "3.10946",
+    "location": "Felanitx",
+    "manager": "CAN SAFRE VELL, SL (B16530818)  des de 25/02/2019"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/11528",
+    "latitude": "39.88242",
+    "longitude": "3.02906",
+    "location": "Pollença",
+    "manager": "DIAC DE CAN LOBERA WOLF SL (B57767741)  des de 30/06/2017"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "ETVPL/15150",
+    "latitude": "39.80287",
+    "longitude": "2.69875",
+    "location": "Sóller",
+    "manager": "DEEP BLUE ESTATES SLU (B16654022)  des de 01/10/2020"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/147",
+    "latitude": "39.59044",
+    "longitude": "3.08766",
+    "location": "Petra",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/10481",
+    "latitude": "39.702118",
+    "longitude": "2.912853",
+    "location": "Inca",
+    "manager": "M&M PROYECTOS INMOBILIARIOS Y TURISTICOS, SL (B16521924)"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "ETVPL/15060",
+    "latitude": "39.80395",
+    "longitude": "2.69869",
+    "location": "Sóller",
+    "manager": "HESS DREAM ESTATES SL (B16514218)  des de 24/10/2019"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2500",
+    "latitude": "39.7342059",
+    "longitude": "3.2611209",
+    "location": "Artà",
+    "manager": "OMBRA S.L. (B07733231)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/1000",
+    "latitude": "39.56674",
+    "longitude": "3.13681",
+    "location": "Vilafranc de Bonany",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3437",
+    "latitude": "39.429199",
+    "longitude": "3.038053",
+    "location": "Campos",
+    "manager": "BORN 21, SL (B57326118)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4698",
+    "latitude": "39.385044",
+    "longitude": "3.023515",
+    "location": "Campos",
+    "manager": "STUDIO AUREA 5/8 SL (B20892212)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "VT/2030",
+    "latitude": "39.58308",
+    "longitude": "3.21343",
+    "location": "Manacor",
+    "manager": "SES OLIVERES DE SA CANOVA C.B. (E16586414)  des de 12/07/2018"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/5408",
+    "latitude": "39.37286483321728",
+    "longitude": "2.987281167589316",
+    "location": "Campos",
+    "manager": "CONSTRUCCIONS GRAN VIOBRA, SL (B07937923)"
+  },
+  {
+    "hostName": "Annette",
+    "hostCountry": "Germany",
+    "license": "ETV/13055",
+    "latitude": "39.32112",
+    "longitude": "3.14123",
+    "location": "Santanyí",
+    "manager": "ZKS INMOBILIARIA 2016, S.L. (B57962292)  des de 09/11/2018"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/19",
+    "latitude": "39.702496",
+    "longitude": "3.023518",
+    "location": "Llubí",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "VT/1596",
+    "latitude": "39.61427",
+    "longitude": "3.31699",
+    "location": "Sant Llorenç des Cardassar",
+    "manager": "ADSON, GARRIGA I PUIG NOU, SL (B57541633)"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/29",
+    "latitude": "39.73995",
+    "longitude": "3.22024",
+    "location": "Santa Margalida",
+    "manager": "FINCAS BLAU MEDITERRANI SLU (B57402083)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7053",
+    "latitude": "39.756462",
+    "longitude": "3.123653",
+    "location": "Muro",
+    "manager": "SA TANCASSA DEN LLIGAT, SL (B57890998)"
+  },
+  {
+    "hostName": "Mathias",
+    "hostCountry": "Germany",
+    "license": "ETVPL/14456",
+    "latitude": "39.38494",
+    "longitude": "2.9386",
+    "location": "Llucmajor",
+    "manager": "Villas Mallorca Invest Deluxe SL (B57551368)  des de 19/11/2018"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/5309",
+    "latitude": "39.552257",
+    "longitude": "3.337594",
+    "location": "Manacor",
+    "manager": "NEGOCIOS E INVERSIONES RIERA, S.L. (B57274946)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/2122",
+    "latitude": "39.541534",
+    "longitude": "3.235908",
+    "location": "Manacor",
+    "manager": "Risur SL (B07157274)  des de 09/11/2021"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/6917",
+    "latitude": "39.464409",
+    "longitude": "3.088582",
+    "location": "Felanitx",
+    "manager": "TRENDY INVESTMENTS, SL (B81397812)"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "VT/2008",
+    "latitude": "39.532",
+    "longitude": "3.22473",
+    "location": "Manacor",
+    "manager": "FINCA SIEPEN, C.B. (E16577330)  des de 29/04/2019"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/178",
+    "latitude": "39.631676",
+    "longitude": "3.390393",
+    "location": "Son Servera",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "ETVPL/12866",
+    "latitude": "39.42072",
+    "longitude": "3.26074",
+    "location": "Felanitx",
+    "manager": "CARNICERIA MARICARMEN S.L (B07655780)  des de 08/10/2018"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7769",
+    "latitude": "39.565273",
+    "longitude": "3.116039",
+    "location": "Vilafranc de Bonany",
+    "manager": "CASES D'ALCUDIARROM SL (B57978702)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1437",
+    "latitude": "39.88544",
+    "longitude": "3.02376",
+    "location": "Pollença",
+    "manager": "PORTVIL, SLU (B07620305)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/1488",
+    "latitude": "39.75578234106922",
+    "longitude": "2.9897128270530686",
+    "location": "Búger",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/278",
+    "latitude": "39.85394661400878",
+    "longitude": "3.1248041741281596",
+    "location": "Alcúdia",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VT/1842",
+    "latitude": "39.44671",
+    "longitude": "3.09562",
+    "location": "Felanitx",
+    "manager": "GOOD SIGHTS CAS CONCOS, SL (B07632458)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2983",
+    "latitude": "39.4207257725478",
+    "longitude": "3.17729825174558",
+    "location": "Felanitx",
+    "manager": "AGROREUS SL (B57322091)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/562",
+    "latitude": "39.48378",
+    "longitude": "3.247372",
+    "location": "Manacor",
+    "manager": "CAN RAÜLL, S.L. (B07141997)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/2500",
+    "latitude": "39.8854",
+    "longitude": "3.0199",
+    "location": "Pollença",
+    "manager": "OMBRA S.L. (B07733231)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/7748",
+    "latitude": "39.73768",
+    "longitude": "3.22077",
+    "location": "Santa Margalida",
+    "manager": "GRANS VILES ES PLA, S.L (B57959777)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/12359",
+    "latitude": "39.625046",
+    "longitude": "3.285367",
+    "location": "Sant Llorenç des Cardassar",
+    "manager": "HANOLI PALMA, SL (B38737706)  des de 31/07/2017"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/1493",
+    "latitude": "39.737114",
+    "longitude": "2.915709",
+    "location": "Selva",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/4479",
+    "latitude": "39.36473083496094",
+    "longitude": "3.223299980163574",
+    "location": "Santanyí",
+    "manager": "MARINES 2001, C.B. (E57754103)  des de 23/04/2018"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/49",
+    "latitude": "39.8471",
+    "longitude": "3.0866",
+    "location": "Alcúdia",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/9153",
+    "latitude": "39.373363",
+    "longitude": "2.940033",
+    "location": "Campos",
+    "manager": "ELECON OCTUBRE 2005, SL (B57382897)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/1742",
+    "latitude": "39.764",
+    "longitude": "2.98204",
+    "location": "Búger",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7031",
+    "latitude": "39.81036",
+    "longitude": "3.11479",
+    "location": "Muro",
+    "manager": "PERFORACIONS AIGÜES DE MALLORCA, SL (B57075897)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/1015",
+    "latitude": "39.748613",
+    "longitude": "2.981654",
+    "location": "Búger",
+    "manager": "SAT MALLORCA, SL (B07865512) , SEBASTIANA TORRENS PAYERAS"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/8109",
+    "latitude": "39.70666",
+    "longitude": "2.91713",
+    "location": "Inca",
+    "manager": "FINCA SON SET INVERSIONES SL (B57979932)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7040",
+    "latitude": "39.761169",
+    "longitude": "3.1186",
+    "location": "Muro",
+    "manager": "PEDRA TENDRE, SL (B57891004)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/11528",
+    "latitude": "39.88137",
+    "longitude": "3.02802",
+    "location": "Pollença",
+    "manager": "DIAC DE CAN LOBERA WOLF SL (B57767741)  des de 30/06/2017"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/2204",
+    "latitude": "39.873286939217174",
+    "longitude": "3.0461192452241463",
+    "location": "Pollença",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/5579",
+    "latitude": "39.72993",
+    "longitude": "3.04493",
+    "location": "Muro",
+    "manager": "GRANS VILES ES PLA, S.L (B57959777)  des de 27/09/2022"
+  },
+  {
+    "hostName": "Florian",
+    "hostCountry": "Germany",
+    "license": "ETV/14953",
+    "latitude": "39.36483",
+    "longitude": "2.83701",
+    "location": "Llucmajor",
+    "manager": "VITA CALA SLU (B16654899)  des de 25/06/2020"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "ETVPL/15123",
+    "latitude": "39.79871",
+    "longitude": "2.69688",
+    "location": "Sóller",
+    "manager": "HESS DREAM ESTATES SL (B16514218)  des de 23/04/2020"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4520",
+    "latitude": "39.451077",
+    "longitude": "3.262659",
+    "location": "Manacor",
+    "manager": "SON GANXO, C.B. (E57879165)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "VT/1956",
+    "latitude": "39.71194",
+    "longitude": "2.8971",
+    "location": "Inca",
+    "manager": "VILLASMAR MALLORCA, SL (B57742793)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1152",
+    "latitude": "39.6640641",
+    "longitude": "2.8228124",
+    "location": "Consell",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "Silvia",
+    "hostCountry": "Switzerland",
+    "license": "ETV/6154",
+    "latitude": "39.55791",
+    "longitude": "2.68036",
+    "location": "Palma de Mallorca",
+    "manager": "ORBITAL GRUPSIL, S.L. (B57657513)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3615",
+    "latitude": "39.574249",
+    "longitude": "3.372621",
+    "location": "Sant Llorenç des Cardassar",
+    "manager": "MIRA CAPO, C.B. (E57904773)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1810",
+    "latitude": "39.444893",
+    "longitude": "3.249419",
+    "location": "Felanitx",
+    "manager": "GLONETOMI, SL (B57425407)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4214",
+    "latitude": "39.614182",
+    "longitude": "3.27616",
+    "location": "Sant Llorenç des Cardassar",
+    "manager": "INVERSIONES PONT FERRER S.L. (B57803470)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETVPL/12868",
+    "latitude": "39.836426",
+    "longitude": "3.118032",
+    "location": "Alcúdia",
+    "manager": "MAKE THE MOST, S.L (B57955064)  des de 16/10/2018"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/2657",
+    "latitude": "39.718002",
+    "longitude": "2.5881",
+    "location": "Valldemossa",
+    "manager": "ES MIQUELOTOS S.L. (B57463853)"
+  },
+  {
+    "hostName": "Silvia",
+    "hostCountry": "Switzerland",
+    "license": "ETV/4836",
+    "latitude": "39.55758",
+    "longitude": "2.68078",
+    "location": "Palma de Mallorca",
+    "manager": "ORBITAL GRUPSIL, S.L. (B57657513)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/527",
+    "latitude": "39.88534",
+    "longitude": "3.0157",
+    "location": "Pollença",
+    "manager": "RENTALS POLLENSA, S.L.U. (B57001513)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3725",
+    "latitude": "39.54533",
+    "longitude": "2.812843",
+    "location": "Palma de Mallorca",
+    "manager": "BALEARIC PROPERTY MANAGEMENT, S.L. (B57836421)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3514",
+    "latitude": "39.314709",
+    "longitude": "3.076693",
+    "location": "Santanyí",
+    "manager": "BONET VIDAL, CB (E57098022)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1202",
+    "latitude": "39.698345",
+    "longitude": "2.920881",
+    "location": "Inca",
+    "manager": "WEEKING HOLIDAYS, SL (B07981780)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2096",
+    "latitude": "39.76859163683113",
+    "longitude": "2.9990223170409536",
+    "location": "Búger",
+    "manager": "ALBERCUIX, SL (B07628381)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/2163",
+    "latitude": "39.493393",
+    "longitude": "3.086274",
+    "location": "Felanitx",
+    "manager": "GESTIÓN Y MANTENIMIENTO SL (B07133549)"
+  },
+  {
+    "hostName": "Chris",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/3735",
+    "latitude": "39.53671",
+    "longitude": "2.37477",
+    "location": "Andratx",
+    "manager": "HOLDING LA ROCA 2010, S.L. (B57664443)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/1542",
+    "latitude": "39.602060573894256",
+    "longitude": "3.076830111889649",
+    "location": "Petra",
+    "manager": "INVERSIONES PEMARBUR, S.L. (B57291833)  des de 16/12/2022"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/8109",
+    "latitude": "39.6993889482135",
+    "longitude": "2.92046570941093",
+    "location": "Inca",
+    "manager": "FINCA SON SET INVERSIONES SL (B57979932)"
+  },
+  {
+    "hostName": "Oliver",
+    "hostCountry": "Germany",
+    "license": "ETV/1525",
+    "latitude": "39.36554",
+    "longitude": "2.87517",
+    "location": "Llucmajor",
+    "manager": "MANRESA COMPANY, C.B (E07786064)  des de 29/07/2019"
+  },
+  {
+    "hostName": "Jo",
+    "hostCountry": "United Kingdom",
+    "license": "VT/265",
+    "latitude": "39.893688",
+    "longitude": "3.045972",
+    "location": "Pollença",
+    "manager": "MALLORCA LUXURY RESORT SL (B07839194)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/1607",
+    "latitude": "39.625323529018765",
+    "longitude": "3.0787006893798434",
+    "location": "Petra",
+    "manager": "PORTVIL, SLU (B07620305)"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "ETVPL/15639",
+    "latitude": "39.7909",
+    "longitude": "2.69144",
+    "location": "Sóller",
+    "manager": "HESS DREAM ESTATES SL (B16514218)  des de 28/12/2021"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/2500",
+    "latitude": "39.7331",
+    "longitude": "3.25744",
+    "location": "Artà",
+    "manager": "OMBRA S.L. (B07733231)"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/1152",
+    "latitude": "39.67644",
+    "longitude": "2.80291",
+    "location": "Consell",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/537",
+    "latitude": "39.882706",
+    "longitude": "3.042661",
+    "location": "Pollença",
+    "manager": "VILLAS PLANET, S.L. (B57264848)"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/85",
+    "latitude": "39.37133",
+    "longitude": "2.98093",
+    "location": "Campos",
+    "manager": "MARINASSA CAMPANERA SL (B57426538)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1756",
+    "latitude": "39.528404",
+    "longitude": "2.869121",
+    "location": "Llucmajor",
+    "manager": "BATEMAYU SL (B57114431)"
+  },
+  {
+    "hostName": "SUN CLUB Home",
+    "hostCountry": "Germany",
+    "license": "ETV/6470",
+    "latitude": "39.50649",
+    "longitude": "2.90375",
+    "location": "Llucmajor",
+    "manager": "SARATOGA MANAGEMENT SL (B16595647)  des de 27/11/2019"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/172",
+    "latitude": "39.91742",
+    "longitude": "3.05375",
+    "location": "Pollença",
+    "manager": "BAUZA-DEROULEDE, C.B. (E57739450)"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/84",
+    "latitude": "39.37187",
+    "longitude": "2.9801",
+    "location": "Campos",
+    "manager": "MARINASSA CAMPANERA SL (B57426538)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/1756",
+    "latitude": "39.52819909891224",
+    "longitude": "2.869064238623082",
+    "location": "Llucmajor",
+    "manager": "BATEMAYU SL (B57114431)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/1979",
+    "latitude": "39.3745688",
+    "longitude": "2.9871268",
+    "location": "Campos",
+    "manager": "WEEKING HOLIDAYS, SL (B07981780)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/845",
+    "latitude": "39.60541667707874",
+    "longitude": "3.0794157613800053",
+    "location": "Petra",
+    "manager": "INVERSIONES PEMARBUR, S.L. (B57291833)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2963",
+    "latitude": "39.80271754428691",
+    "longitude": "3.0144234681228568",
+    "location": "Sa Pobla",
+    "manager": "UBAC SA POBLA CB (E57368060)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/844",
+    "latitude": "39.60314677405493",
+    "longitude": "3.076925841156026",
+    "location": "Petra",
+    "manager": "INVERSIONES PEMARBUR, S.L. (B57291833)"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV/147",
+    "latitude": "39.60739",
+    "longitude": "3.10992",
+    "location": "Petra",
+    "manager": "TERRA VIVA ALCUDIA, S.L. (B57279945)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/4745",
+    "latitude": "39.450737",
+    "longitude": "3.262761",
+    "location": "Manacor",
+    "manager": "SON GANXO, C.B. (E57879165)"
+  },
+  {
+    "hostName": "Alexander",
+    "hostCountry": "Germany",
+    "license": "ETVPL/13312",
+    "latitude": "39.38434717823661",
+    "longitude": "2.9398302904234344",
+    "location": "Campos",
+    "manager": "Villas Mallorca Invest Deluxe SL (B57551368)  des de 11/12/2018"
+  },
+  {
+    "hostName": "Mathias",
+    "hostCountry": "Germany",
+    "license": "ETVPL/14457",
+    "latitude": "39.38328",
+    "longitude": "2.93988",
+    "location": "Campos",
+    "manager": "Villas Mallorca Invest Deluxe SL (B57551368)  des de 19/11/2018"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/732",
+    "latitude": "39.553056",
+    "longitude": "3.339167",
+    "location": "Manacor",
+    "manager": "MAKITURISTICA S.L. (B57257586)"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/2097",
+    "latitude": "39.75344930357228",
+    "longitude": "2.9849460841307973",
+    "location": "Búger",
+    "manager": "ALBERCUIX, SL (B07628381)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/10253",
+    "latitude": "39.675598",
+    "longitude": "3.369364",
+    "location": "Artà",
+    "manager": "JAUME ESTEVA CB (E07565807)"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/2098",
+    "latitude": "39.89093",
+    "longitude": "3.03258",
+    "location": "Pollença",
+    "manager": "NORD VILLAS POLLENSA, CB (E57670523)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1224",
+    "latitude": "39.412399",
+    "longitude": "3.208181",
+    "location": "Felanitx",
+    "manager": "BONAIRE DES PUIG C.B. (E57774671)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/1702",
+    "latitude": "39.71468",
+    "longitude": "3.157106",
+    "location": "Santa Margalida",
+    "manager": "AGROTURISMO SA TEULADA, SL (B57377483)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/7748",
+    "latitude": "39.738434",
+    "longitude": "3.221022",
+    "location": "Santa Margalida",
+    "manager": "GRANS VILES ES PLA, S.L (B57959777)"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1366",
+    "latitude": "39.714424",
+    "longitude": "3.157422",
+    "location": "Santa Margalida",
+    "manager": "AGROTURISMO SA TEULADA, SL (B57377483)  des de 10/10/2019"
+  }
+]

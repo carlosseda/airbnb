@@ -1,0 +1,7330 @@
+[
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/84",
+    "latitude": "39.640896",
+    "longitude": "2.763078",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-1409",
+    "latitude": "39.38041",
+    "longitude": "3.23404",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Daniel",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.9108",
+    "longitude": "3.07764",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.586811",
+    "longitude": "2.98427",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "L12E9122",
+    "latitude": "39.55064",
+    "longitude": "2.5159",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56929",
+    "longitude": "2.64757",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Sigrun",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3204915",
+    "longitude": "3.1313316",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Poplidays",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.741936",
+    "longitude": "3.115045",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Sanne",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.50542",
+    "longitude": "2.46931",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "1567",
+    "latitude": "39.42723091665498",
+    "longitude": "3.036717462545798",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.36591",
+    "longitude": "2.87659",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Anita",
+    "hostCountry": "France",
+    "license": "Licencia Turismo ET/3413",
+    "latitude": "39.79711",
+    "longitude": "2.71439",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Anna Jutta",
+    "hostCountry": "France",
+    "license": "GOIBE574171",
+    "latitude": "39.4682",
+    "longitude": "3.14866",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.90928",
+    "longitude": "3.07616",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Iris",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.33112",
+    "longitude": "3.14357",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L12E7085",
+    "latitude": "39.90045",
+    "longitude": "3.07267",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anders",
+    "hostCountry": "Sweden",
+    "license": "application number 212E 8672",
+    "latitude": "39.78088",
+    "longitude": "2.71583",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Julia",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.49095",
+    "longitude": "2.48249",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "VT/218",
+    "latitude": "39.876026",
+    "longitude": "3.028401",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Andrew",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.87774",
+    "longitude": "3.07204",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Projectors E Inversione",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.594234466552734",
+    "longitude": "2.59389591217041",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Edouard",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.57313",
+    "longitude": "2.35472",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.55801",
+    "longitude": "2.67729",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Leonardo",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.55237",
+    "longitude": "2.59894",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Diana",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.57527",
+    "longitude": "3.21236",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Marc",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.85946",
+    "longitude": "3.15242",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Mark",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.78297",
+    "longitude": "2.74162",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VTV 0480 BAL",
+    "latitude": "39.85723",
+    "longitude": "3.06394",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET/1704",
+    "latitude": "39.83021",
+    "longitude": "3.05852",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Daniela",
+    "hostCountry": "Argentina",
+    "license": "",
+    "latitude": "39.58048186784261",
+    "longitude": "2.640036562350148",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56621",
+    "longitude": "2.6559",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.58614366907934",
+    "longitude": "2.9849742103499954",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Horacio",
+    "hostCountry": "Argentina",
+    "license": "",
+    "latitude": "39.573030935266225",
+    "longitude": "2.630700024889013",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/221",
+    "latitude": "39.395683",
+    "longitude": "3.174543",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "DRIAT",
+    "latitude": "39.648628",
+    "longitude": "3.380818",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.586601",
+    "longitude": "2.983708",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52485",
+    "longitude": "3.30983",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "L12E8455/2019",
+    "latitude": "39.60748",
+    "longitude": "3.38947",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.77288",
+    "longitude": "2.7175",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/1618,ETV/1617",
+    "latitude": "39.830166",
+    "longitude": "3.081211",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7036",
+    "longitude": "3.32718",
+    "location": "Artà"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/128",
+    "latitude": "39.502396",
+    "longitude": "2.919367",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Fiona",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.89306414028429",
+    "longitude": "3.074507165606706",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Wojtek",
+    "hostCountry": "Poland",
+    "license": "",
+    "latitude": "39.87626",
+    "longitude": "3.01552",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.68796129324667",
+    "longitude": "3.0844533823218905",
+    "location": "Maria de la Salut"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "ETV60,ETV/14250",
+    "latitude": "39.860126",
+    "longitude": "3.152662",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "VTV 0479 BAL",
+    "latitude": "39.57334",
+    "longitude": "3.2998",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Sabine",
+    "hostCountry": "Germany",
+    "license": "4832",
+    "latitude": "39.32142",
+    "longitude": "3.13731",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Bernhard",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.51693202170828",
+    "longitude": "2.7464157465242147",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.58566",
+    "longitude": "2.4372",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Eva",
+    "hostCountry": "Sweden",
+    "license": "",
+    "latitude": "39.75580098662152",
+    "longitude": "3.1162698497070496",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Natalia",
+    "hostCountry": "Germany",
+    "license": "L/8Ei5777",
+    "latitude": "39.38348",
+    "longitude": "2.93843",
+    "location": "Campos"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "DRIAT",
+    "latitude": "39.71056",
+    "longitude": "3.435753",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Luz Maria",
+    "hostCountry": "Cuba",
+    "license": "H/1464",
+    "latitude": "39.31784",
+    "longitude": "2.99885",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3926",
+    "longitude": "3.05135",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E7170/2016",
+    "latitude": "39.45435",
+    "longitude": "3.26451",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "AG/34",
+    "latitude": "39.46449",
+    "longitude": "3.24588",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.352718229059576",
+    "longitude": "3.134569458368368",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Leon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.32788",
+    "longitude": "3.14505",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Nafida",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.47313",
+    "longitude": "2.83026",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56301767988699",
+    "longitude": "2.399130206042743",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Mike",
+    "hostCountry": "Germany",
+    "license": "REGAGE21e00010543257",
+    "latitude": "39.92136",
+    "longitude": "3.05486",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Lee",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.78244",
+    "longitude": "2.73932",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Marcel",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.76199",
+    "longitude": "2.70817",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Germany",
+    "license": "ETVP/15092",
+    "latitude": "39.52608",
+    "longitude": "3.31587",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Novasol",
+    "hostCountry": "Germany",
+    "license": "ETV/4000 SA POSADA",
+    "latitude": "39.7181084",
+    "longitude": "2.8661836",
+    "location": "Lloseta"
+  },
+  {
+    "hostName": "Cédric",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.83556",
+    "longitude": "2.78091",
+    "location": "Escorca"
+  },
+  {
+    "hostName": "Ulli",
+    "hostCountry": "Germany",
+    "license": "ET/2892",
+    "latitude": "39.59855",
+    "longitude": "3.18769",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3243669",
+    "longitude": "2.9857731",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.60226",
+    "longitude": "3.37686",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Jacqueline",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.876427",
+    "longitude": "3.01233",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5267619",
+    "longitude": "3.3148135",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Amine",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.51749684535625",
+    "longitude": "2.5363361639053896",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.39915771036974",
+    "longitude": "2.968429349428709",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Sancha",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.74781",
+    "longitude": "2.64449",
+    "location": "Deyá"
+  },
+  {
+    "hostName": "Karen",
+    "hostCountry": "United Kingdom",
+    "license": "ET/2962",
+    "latitude": "39.7980144",
+    "longitude": "2.7002065",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Jesus",
+    "hostCountry": "Portugal",
+    "license": "",
+    "latitude": "39.79682",
+    "longitude": "2.69597",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Eva",
+    "hostCountry": "Sweden",
+    "license": "1501",
+    "latitude": "39.761",
+    "longitude": "3.16548",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73329",
+    "longitude": "3.23147",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Mihai",
+    "hostCountry": "Romania",
+    "license": "",
+    "latitude": "39.57537634489456",
+    "longitude": "2.6587921619669643",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Camy",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.51894",
+    "longitude": "2.5344",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.8923",
+    "longitude": "3.07418",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56631",
+    "longitude": "2.42257",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Agence Poplidays 5",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.738621",
+    "longitude": "3.22165",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Karoline",
+    "hostCountry": "Germany",
+    "license": "2470",
+    "latitude": "39.37245",
+    "longitude": "3.23305",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Susanne",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.765392",
+    "longitude": "3.153578",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Leon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.32662",
+    "longitude": "3.1419",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Mark",
+    "hostCountry": "NY",
+    "license": "",
+    "latitude": "39.37039",
+    "longitude": "3.22681",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E/1345",
+    "latitude": "39.62595",
+    "longitude": "3.28332",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.77204310426626",
+    "longitude": "3.0132561467499883",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "A 1343",
+    "latitude": "39.44814",
+    "longitude": "3.27032",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Andrea Und Detlev",
+    "hostCountry": "Germany",
+    "license": "ETV",
+    "latitude": "39.73843",
+    "longitude": "3.282599",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Florencia",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5359399",
+    "longitude": "3.20467",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Xim",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.37383",
+    "longitude": "2.99841",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETV-1000",
+    "latitude": "39.56856",
+    "longitude": "3.13608",
+    "location": "Vilafranc de Bonany"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "27593/2023",
+    "latitude": "39.9199799",
+    "longitude": "3.0530228",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Nadia",
+    "hostCountry": "Germany",
+    "license": "2440/2016/ET",
+    "latitude": "39.64707",
+    "longitude": "2.89987",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Bruno",
+    "hostCountry": "United Arab Emirates",
+    "license": "",
+    "latitude": "39.53485",
+    "longitude": "2.57035",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/221",
+    "latitude": "39.395557",
+    "longitude": "3.174543",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Wanda",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.54086338667443",
+    "longitude": "2.4061417114242563",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.71737213585145",
+    "longitude": "2.908449431838739",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.87515",
+    "longitude": "3.01238",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "ETV/01542",
+    "latitude": "39.74373",
+    "longitude": "2.98347",
+    "location": "Búger"
+  },
+  {
+    "hostName": "Kathrin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.70234490358501",
+    "longitude": "3.4330237832564325",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Dörte",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52036",
+    "longitude": "2.74212",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Alex",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.51906",
+    "longitude": "2.47379",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.58628320135775",
+    "longitude": "2.9851108462643383",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Harald",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.32622",
+    "longitude": "3.05831",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Hamilton",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.36337",
+    "longitude": "2.83714",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "CASA KOKO 2283/2016/ET",
+    "latitude": "39.55908",
+    "longitude": "2.67709",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.37616614886894",
+    "longitude": "3.068989143638592",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "R3851",
+    "latitude": "39.70207",
+    "longitude": "3.4375",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "VTV 1014 BAL",
+    "latitude": "39.50141",
+    "longitude": "3.10391",
+    "location": "Porreres"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.58715",
+    "longitude": "2.98463",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/128",
+    "latitude": "39.502396",
+    "longitude": "2.919367",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Markus",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.59027",
+    "longitude": "2.41473",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Paola",
+    "hostCountry": "Uruguay",
+    "license": "",
+    "latitude": "39.5860878",
+    "longitude": "2.6336752",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "ET/0266",
+    "latitude": "39.86402130126953",
+    "longitude": "3.0097429752349854",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Michelina",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.57335",
+    "longitude": "2.63366",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Volker",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.501643836479325",
+    "longitude": "3.24408656869261",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Brent",
+    "hostCountry": "WY",
+    "license": "",
+    "latitude": "39.7976764",
+    "longitude": "2.6921394",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Andrea",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.52276672156151",
+    "longitude": "3.315980153319713",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Maria Soledad",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.54257",
+    "longitude": "3.33816",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Th.",
+    "hostCountry": "Germany",
+    "license": "Pending registration with the city",
+    "latitude": "39.63011",
+    "longitude": "3.39095",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.50464",
+    "longitude": "2.46741",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L12E  8925",
+    "latitude": "39.36438",
+    "longitude": "2.99049",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/2658",
+    "latitude": "39.62515",
+    "longitude": "3.27746",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7327",
+    "longitude": "3.23394",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Lars",
+    "hostCountry": "Norway",
+    "license": "",
+    "latitude": "39.701175616884086",
+    "longitude": "3.428653574630728",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Gabriele",
+    "hostCountry": "Germany",
+    "license": "ET/1111",
+    "latitude": "39.51419",
+    "longitude": "3.21794",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.891926835414",
+    "longitude": "3.0228415529175",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.77279405442943",
+    "longitude": "3.0191156517325743",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "My Rental Homes",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.88261",
+    "longitude": "3.01423",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Nicolas",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.448498",
+    "longitude": "3.260774",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Agence Poplidays 5",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.82555",
+    "longitude": "3.11634",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "MaVi",
+    "hostCountry": "Germany",
+    "license": "REGAGE22e00001117519",
+    "latitude": "39.36432",
+    "longitude": "3.2233",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0161BAL",
+    "latitude": "39.89155",
+    "longitude": "3.04563",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0133BAL",
+    "latitude": "39.87541",
+    "longitude": "3.04032",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.49692",
+    "longitude": "3.14209",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Aike",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.37048",
+    "longitude": "3.22304",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Julius",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.86048345453217",
+    "longitude": "3.020842171126996",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.89034",
+    "longitude": "3.04834",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/12584",
+    "latitude": "39.81581481",
+    "longitude": "2.992720608",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.82994",
+    "longitude": "3.11438",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.77019594189084",
+    "longitude": "3.024088338258874",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VTV0243BAL",
+    "latitude": "39.903442",
+    "longitude": "3.079849",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VT-2031",
+    "latitude": "39.38019",
+    "longitude": "3.22918",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Margalida",
+    "hostCountry": "Philippines",
+    "license": "7624",
+    "latitude": "39.76241",
+    "longitude": "3.15722",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Camila",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.4544119506291",
+    "longitude": "2.7475211928811754",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Andrea",
+    "hostCountry": "Sweden",
+    "license": "",
+    "latitude": "39.71034",
+    "longitude": "2.79356",
+    "location": "Alaró"
+  },
+  {
+    "hostName": "Joerg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.647617",
+    "longitude": "2.862627",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "Jose Luis",
+    "hostCountry": "Mexico",
+    "license": "75/2017/E.T",
+    "latitude": "39.4964",
+    "longitude": "2.86321",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Manuel",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36535",
+    "longitude": "2.83982",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Gianni",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.51878",
+    "longitude": "2.47959",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Nina & Matthias",
+    "hostCountry": "Germany",
+    "license": "L12E5306/2019",
+    "latitude": "39.55941",
+    "longitude": "2.8929",
+    "location": "Algaida"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53874",
+    "longitude": "2.55606",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Oreste",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.36253",
+    "longitude": "2.83564",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Dorothy",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.79950781514635",
+    "longitude": "2.6960781024650693",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.54243332859422",
+    "longitude": "2.5569044903936615",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Casa Pura",
+    "hostCountry": "Germany",
+    "license": "ET/2997",
+    "latitude": "39.4838",
+    "longitude": "2.7366",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Theresa",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.3296249",
+    "longitude": "3.1444743",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Michèle",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.71764",
+    "longitude": "2.86871",
+    "location": "Lloseta"
+  },
+  {
+    "hostName": "Martijn",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.56954055633363",
+    "longitude": "2.653142180851888",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Thuy Le",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.381577",
+    "longitude": "3.239987",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56737",
+    "longitude": "2.42254",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Moritz",
+    "hostCountry": "Germany",
+    "license": "ETV-669 CASA OLIVO",
+    "latitude": "39.38524",
+    "longitude": "2.93719",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Susanne",
+    "hostCountry": "Germany",
+    "license": "ETV/3461 Can Coca",
+    "latitude": "39.57374",
+    "longitude": "3.25765",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E7172/2016",
+    "latitude": "39.4541",
+    "longitude": "3.26441",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Mats",
+    "hostCountry": "Sweden",
+    "license": "LT ETV 9014",
+    "latitude": "39.36963",
+    "longitude": "2.93235",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.76900247247869",
+    "longitude": "3.024058350257294",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "738/2017/ET",
+    "latitude": "39.81579472267026",
+    "longitude": "3.110706347499132",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VTV0247BAL",
+    "latitude": "39.9034423828125",
+    "longitude": "3.0798490047454834",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Rafaela Belvilla",
+    "hostCountry": "Switzerland",
+    "license": "AG099BAL",
+    "latitude": "39.72519",
+    "longitude": "3.09078",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Laura",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.36466",
+    "longitude": "2.83689",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VTV0243BAL",
+    "latitude": "39.90344",
+    "longitude": "3.07985",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Natalia Y Piedad",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.33032",
+    "longitude": "3.1699",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.5058",
+    "longitude": "2.75222",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Austria",
+    "license": "ETV-14497",
+    "latitude": "39.36436",
+    "longitude": "2.85571",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.62152",
+    "longitude": "3.35745",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Clive",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.55162",
+    "longitude": "2.60315",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Theo",
+    "hostCountry": "Germany",
+    "license": "7177504DD8577N0001YQ - ETV/9271",
+    "latitude": "39.3669853",
+    "longitude": "2.8501275",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Beach And Mountain",
+    "hostCountry": "Serbia",
+    "license": "19016516262",
+    "latitude": "39.80298",
+    "longitude": "2.69624",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L12E-13175",
+    "latitude": "39.41517",
+    "longitude": "2.74342",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Klaus",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.67236",
+    "longitude": "2.57588",
+    "location": "Esporles"
+  },
+  {
+    "hostName": "Franck Et Armelle",
+    "hostCountry": "France",
+    "license": "Y6010980J",
+    "latitude": "39.81493",
+    "longitude": "3.05973",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Matthias",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.33011",
+    "longitude": "3.14009",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Svenja",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.81338",
+    "longitude": "3.0253",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Pablo",
+    "hostCountry": "CA",
+    "license": "",
+    "latitude": "39.5723122",
+    "longitude": "2.6519866",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Miguel Angel",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.76708",
+    "longitude": "2.71514",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Paola",
+    "hostCountry": "Uruguay",
+    "license": "",
+    "latitude": "39.58576",
+    "longitude": "2.63361",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Daniel",
+    "hostCountry": "Germany",
+    "license": "971728008",
+    "latitude": "39.61329",
+    "longitude": "2.75501",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Petra",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.72741",
+    "longitude": "2.809",
+    "location": "Alaró"
+  },
+  {
+    "hostName": "Mimma",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.54367039830305",
+    "longitude": "2.7673712151180125",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Ingrid",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.4934099",
+    "longitude": "2.4773003",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Dirk Peter",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.57106904450317",
+    "longitude": "2.6524722167551134",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Insa",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3926",
+    "longitude": "3.07027",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Lance",
+    "hostCountry": "NY",
+    "license": "",
+    "latitude": "39.74623",
+    "longitude": "2.64585",
+    "location": "Deyá"
+  },
+  {
+    "hostName": "Dávid",
+    "hostCountry": "Hungary",
+    "license": "",
+    "latitude": "39.57466778240362",
+    "longitude": "2.5096719649067483",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Jitariu",
+    "hostCountry": "Romania",
+    "license": "",
+    "latitude": "39.51105",
+    "longitude": "2.53816",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "10/2009/VT",
+    "latitude": "39.6806",
+    "longitude": "3.45219",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Alexandra",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.86046",
+    "longitude": "3.0088",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Karin",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.75639358119623",
+    "longitude": "2.6488264246678246",
+    "location": "Deyá"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "1807/2016/ET",
+    "latitude": "39.52373",
+    "longitude": "3.3108",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Bernhard",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.62514126117395",
+    "longitude": "3.393970404229738",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.53468",
+    "longitude": "2.37129",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Lori",
+    "hostCountry": "CO",
+    "license": "",
+    "latitude": "39.70841",
+    "longitude": "2.7833",
+    "location": "Alaró"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Charlotte",
+    "hostCountry": "Denmark",
+    "license": "",
+    "latitude": "39.60984",
+    "longitude": "2.50933",
+    "location": "Puigpunyent"
+  },
+  {
+    "hostName": "Carlos K.",
+    "hostCountry": "Latvia",
+    "license": "",
+    "latitude": "39.57363",
+    "longitude": "2.65878",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Simona",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.565021",
+    "longitude": "2.628061",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Анна",
+    "hostCountry": "Ukraine",
+    "license": "",
+    "latitude": "39.503407345180634",
+    "longitude": "2.531338804697376",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Novasol",
+    "hostCountry": "Denmark",
+    "license": "ETV/4981 CAN JORDI",
+    "latitude": "39.6125378",
+    "longitude": "2.5063165",
+    "location": "Puigpunyent"
+  },
+  {
+    "hostName": "Daniel",
+    "hostCountry": "Austria",
+    "license": "690-2013-WT",
+    "latitude": "39.50860269739587",
+    "longitude": "2.4709357282305544",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Olaf",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.46553",
+    "longitude": "3.27511",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Susan",
+    "hostCountry": "France",
+    "license": "L12E29280/ETV/15380",
+    "latitude": "39.36529",
+    "longitude": "2.94477",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Ingrid",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.454602804180716",
+    "longitude": "2.7446677887306823",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.62209",
+    "longitude": "2.73528",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Ed & Wayne",
+    "hostCountry": "Netherlands",
+    "license": "19015813291",
+    "latitude": "39.80244",
+    "longitude": "2.69733",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Doro",
+    "hostCountry": "Germany",
+    "license": "ETVPL/ 15976",
+    "latitude": "39.80322",
+    "longitude": "2.69885",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Alexander",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.367168",
+    "longitude": "2.846505",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "PRESENTADO REF: 7720",
+    "latitude": "39.92012",
+    "longitude": "3.0536",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "2300/2017/ET",
+    "latitude": "39.5855",
+    "longitude": "2.43514",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Sara",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.535069702651",
+    "longitude": "2.572592624591652",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Thomas",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52341",
+    "longitude": "2.469",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Donata",
+    "hostCountry": "Netherlands",
+    "license": "ETVPL/ 15680",
+    "latitude": "39.80097",
+    "longitude": "2.70062",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Rafael",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.49818",
+    "longitude": "2.75211",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Andre",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.53865",
+    "longitude": "3.18615",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Leon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.327305",
+    "longitude": "3.145602",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.70916137208178",
+    "longitude": "3.1381901048210192",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "H/1464",
+    "latitude": "39.317921",
+    "longitude": "2.998755",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Lucinda",
+    "hostCountry": "United Kingdom",
+    "license": "001941/2017",
+    "latitude": "39.78391",
+    "longitude": "2.73976",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Hamilton",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83933",
+    "longitude": "3.14026",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET-4593",
+    "latitude": "39.35836",
+    "longitude": "3.0893",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.45122",
+    "longitude": "3.27778",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Theresa",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.32913",
+    "longitude": "3.14356",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0427BAL",
+    "latitude": "39.41691",
+    "longitude": "3.17836",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Marijntje",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.54155",
+    "longitude": "2.39286",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.586601",
+    "longitude": "2.983708",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Sophie",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.35887",
+    "longitude": "3.03272",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Lorenz",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5112334699807",
+    "longitude": "2.4788615454294862",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Ludovic",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.4675663688445",
+    "longitude": "2.8496431847826798",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E9022",
+    "latitude": "39.45756",
+    "longitude": "3.26096",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E12492",
+    "latitude": "39.45142",
+    "longitude": "3.26736",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Sabine Petra",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.38086",
+    "longitude": "2.93639",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.36262",
+    "longitude": "3.23262",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Caroline",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.571862446146646",
+    "longitude": "2.983391659330281",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.6994",
+    "longitude": "3.01095",
+    "location": "Llubí"
+  },
+  {
+    "hostName": "Stuart",
+    "hostCountry": "United Kingdom",
+    "license": "ET/1653",
+    "latitude": "39.77147",
+    "longitude": "2.72096",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L12E12917",
+    "latitude": "39.64429",
+    "longitude": "2.7569",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.880547511627",
+    "longitude": "3.0541547979004",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Bernhard",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.516860514749126",
+    "longitude": "2.747196588702937",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Bernhard",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5704",
+    "longitude": "2.63547",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.57946403006985",
+    "longitude": "3.3631033604209475",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Diana",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.58665",
+    "longitude": "2.85554",
+    "location": "Algaida"
+  },
+  {
+    "hostName": "Jean Pierre",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.69448",
+    "longitude": "2.5567",
+    "location": "Banyalbufar"
+  },
+  {
+    "hostName": "Kristin",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.41715",
+    "longitude": "3.27199",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Guy",
+    "hostCountry": "Luxembourg",
+    "license": "U2E3322",
+    "latitude": "39.54128",
+    "longitude": "2.44307",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Marcel",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.76595",
+    "longitude": "2.71588",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Ralph",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.76709",
+    "longitude": "2.71583",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Jan & Sabrina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.31946",
+    "longitude": "3.13663",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Mariska",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.55277",
+    "longitude": "2.60001",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Henning",
+    "hostCountry": "Germany",
+    "license": "20014136975 (vorläufige ETV)",
+    "latitude": "39.32096",
+    "longitude": "3.13591",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Viola",
+    "hostCountry": "Germany",
+    "license": "ET/3339",
+    "latitude": "39.7795",
+    "longitude": "2.71208",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Florian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.55616",
+    "longitude": "2.97012",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Andrew",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.67861",
+    "longitude": "2.82833",
+    "location": "Binissalem"
+  },
+  {
+    "hostName": "Lili",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.53822",
+    "longitude": "2.56477",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "United Kingdom",
+    "license": "L12E-9534",
+    "latitude": "39.31791",
+    "longitude": "2.98758",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.878176321741186",
+    "longitude": "3.0138157881321352",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56403",
+    "longitude": "2.60309",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Iris",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.329239",
+    "longitude": "3.145308",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.46257",
+    "longitude": "3.06365",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Jacques",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.36319",
+    "longitude": "2.83643",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Clare",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.54894",
+    "longitude": "2.69311",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Thomas",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.48878740000001",
+    "longitude": "2.8945174",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "1650",
+    "latitude": "39.87017059326172",
+    "longitude": "3.016961097717285",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/3505",
+    "latitude": "39.52090072631836",
+    "longitude": "3.1209349632263184",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Cameron",
+    "hostCountry": "Thailand",
+    "license": "",
+    "latitude": "39.54926",
+    "longitude": "2.58518",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Vanessa",
+    "hostCountry": "Sweden",
+    "license": "",
+    "latitude": "39.75385594819148",
+    "longitude": "3.3170044482947256",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.9110349",
+    "longitude": "3.0880951",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Peter",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.61299",
+    "longitude": "3.11192",
+    "location": "Petra"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VT 613 ME",
+    "latitude": "39.76957",
+    "longitude": "3.03066",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Luz Maria",
+    "hostCountry": "Cuba",
+    "license": "",
+    "latitude": "39.31785",
+    "longitude": "2.99889",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Claire",
+    "hostCountry": "Ireland",
+    "license": "",
+    "latitude": "39.56546",
+    "longitude": "2.65962",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "696ETV",
+    "latitude": "39.75411150947846",
+    "longitude": "2.9095750320769866",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E11651",
+    "latitude": "39.731365",
+    "longitude": "2.87097",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Armin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53503",
+    "longitude": "2.44593",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET/1394",
+    "latitude": "39.425213",
+    "longitude": "3.068014",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "Lizenz ETVPL/13776",
+    "latitude": "39.8037039",
+    "longitude": "2.6978272",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.77131665771285",
+    "longitude": "2.902205665161641",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Zendath",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.61205",
+    "longitude": "3.38559",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Christian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.46392",
+    "longitude": "3.27246",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Robyn",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.49129",
+    "longitude": "2.88997",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Tom",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.60869",
+    "longitude": "2.50334",
+    "location": "Puigpunyent"
+  },
+  {
+    "hostName": "Laurence",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.5263",
+    "longitude": "2.46515",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.501777478881166",
+    "longitude": "2.47034625129418",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L12E390",
+    "latitude": "39.35225",
+    "longitude": "3.12454",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Mark",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.78254",
+    "longitude": "2.74099",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Rosa",
+    "hostCountry": "FL",
+    "license": "ET/10746",
+    "latitude": "39.39861",
+    "longitude": "3.08148",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Jodi",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.34322",
+    "longitude": "3.09352",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Josefine",
+    "hostCountry": "Myanmar",
+    "license": "",
+    "latitude": "39.61815",
+    "longitude": "2.75144",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/128",
+    "latitude": "39.502396",
+    "longitude": "2.919367",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Steffen",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.72836",
+    "longitude": "2.88717",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E11940/2016",
+    "latitude": "39.45411",
+    "longitude": "3.26466",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "Driat 03.02.2017",
+    "latitude": "39.8822021484375",
+    "longitude": "3.014112949371338",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Sebastian",
+    "hostCountry": "Sweden",
+    "license": "L12E 4051",
+    "latitude": "39.77409",
+    "longitude": "2.71245",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Txeli",
+    "hostCountry": "Uruguay",
+    "license": "",
+    "latitude": "39.68477",
+    "longitude": "2.51313",
+    "location": "Banyalbufar"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.50402",
+    "longitude": "2.47087",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/4114",
+    "latitude": "39.5991051",
+    "longitude": "2.925796900000023",
+    "location": "Algaida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.89145",
+    "longitude": "3.02976",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Harry",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.87842",
+    "longitude": "3.01413",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jose Luis",
+    "hostCountry": "Mexico",
+    "license": "",
+    "latitude": "39.48526",
+    "longitude": "2.88991",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Kian",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.56187615795844",
+    "longitude": "2.6246685873034528",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Ektor",
+    "hostCountry": "Colombia",
+    "license": "",
+    "latitude": "39.534113740002944",
+    "longitude": "2.5665775639463875",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.74915552355322",
+    "longitude": "2.649191243229197",
+    "location": "Deyá"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ETC1283",
+    "latitude": "39.86707",
+    "longitude": "2.96028",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.91696",
+    "longitude": "3.05344",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Igor",
+    "hostCountry": "Bahamas",
+    "license": "",
+    "latitude": "39.365263",
+    "longitude": "2.8398279",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.514858",
+    "longitude": "3.02388",
+    "location": "Porreres"
+  },
+  {
+    "hostName": "Stefan",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3663",
+    "longitude": "2.84853",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Nadine",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.57534",
+    "longitude": "2.35556",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "United Kingdom",
+    "license": "L12E10419",
+    "latitude": "39.49020813977521",
+    "longitude": "3.2331382499939605",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0006BAL",
+    "latitude": "39.91599",
+    "longitude": "3.05138",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Agence Poplidays 5",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.758041",
+    "longitude": "3.153446",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Ileana",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.88018",
+    "longitude": "3.01332",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Alex",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.51988",
+    "longitude": "2.47471",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36219",
+    "longitude": "2.97611",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Christian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.38496",
+    "longitude": "2.93797",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Marise",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.41727",
+    "longitude": "3.17644",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.692524",
+    "longitude": "3.352881",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "2175/2006 ETV",
+    "latitude": "39.85575",
+    "longitude": "3.11674",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Asmaa",
+    "hostCountry": "Morocco",
+    "license": "",
+    "latitude": "39.573586820459184",
+    "longitude": "2.6731791265549325",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Daniela",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.57091872602939",
+    "longitude": "2.6605012267827988",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Calvin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.87516413967943",
+    "longitude": "3.0192627757787704",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Elke",
+    "hostCountry": "Germany",
+    "license": "629/2020ETV",
+    "latitude": "39.52492",
+    "longitude": "3.32239",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Susanne",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.823847381978396",
+    "longitude": "3.1140989810228348",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/1808",
+    "latitude": "39.8704009031605",
+    "longitude": "3.0172969412781185",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-01491",
+    "latitude": "39.40951",
+    "longitude": "3.23021",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Daniela",
+    "hostCountry": "Argentina",
+    "license": "",
+    "latitude": "39.57859835724362",
+    "longitude": "2.643592051574967",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83132",
+    "longitude": "3.11195",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Francoise",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.57997",
+    "longitude": "3.24281",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Marjola",
+    "hostCountry": "United Arab Emirates",
+    "license": "",
+    "latitude": "39.76513",
+    "longitude": "2.71598",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Jana & Esther",
+    "hostCountry": "Sweden",
+    "license": "",
+    "latitude": "39.4909",
+    "longitude": "2.89392",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Andrea",
+    "hostCountry": "Sweden",
+    "license": "15726",
+    "latitude": "39.71234",
+    "longitude": "2.79796",
+    "location": "Alaró"
+  },
+  {
+    "hostName": "Andre",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.53797149658203",
+    "longitude": "3.1863949298858643",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "VTV0445BA",
+    "latitude": "39.75829",
+    "longitude": "2.98372",
+    "location": "Búger"
+  },
+  {
+    "hostName": "Ralf",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.67467",
+    "longitude": "3.4514",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.83737",
+    "longitude": "3.1169",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/36",
+    "latitude": "39.397518",
+    "longitude": "2.981566",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Laura",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.32230630908121",
+    "longitude": "3.1377038813691267",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VT/104073",
+    "latitude": "39.74583",
+    "longitude": "3.42822",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Philippe",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.837865749179805",
+    "longitude": "3.151809122218725",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "United Kingdom",
+    "license": "L12E10417",
+    "latitude": "39.45027",
+    "longitude": "3.2637",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Andreas",
+    "hostCountry": "Germany",
+    "license": "ETV/7261",
+    "latitude": "39.52483",
+    "longitude": "3.30854",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Fredrik",
+    "hostCountry": "Sweden",
+    "license": "426/2013/ET",
+    "latitude": "39.36632",
+    "longitude": "2.94607",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Andrew",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.5717223",
+    "longitude": "2.6548574",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Gerd",
+    "hostCountry": "Germany",
+    "license": "0840/2006ETV",
+    "latitude": "39.41378",
+    "longitude": "2.96671",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Christian",
+    "hostCountry": "Germany",
+    "license": "L12E4640",
+    "latitude": "39.3647",
+    "longitude": "2.8637",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Mikołaj",
+    "hostCountry": "Poland",
+    "license": "",
+    "latitude": "39.64547",
+    "longitude": "3.43211",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Claude",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.808922",
+    "longitude": "3.118225",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Caroline",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.58146",
+    "longitude": "2.63661",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Henry",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.551",
+    "longitude": "2.38341",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Robin",
+    "hostCountry": "United Kingdom",
+    "license": "07856AAXH3",
+    "latitude": "39.38053",
+    "longitude": "3.13354",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "AG286",
+    "latitude": "39.36438",
+    "longitude": "2.99049",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E11630",
+    "latitude": "39.706371",
+    "longitude": "2.791692",
+    "location": "Alaró"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/103719",
+    "latitude": "39.3661277708516",
+    "longitude": "2.8550038497376136",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.396637863090895",
+    "longitude": "2.9486075564409453",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VV-35-2-0002573",
+    "latitude": "39.88601",
+    "longitude": "3.04411",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Rafaela Belvilla",
+    "hostCountry": "Switzerland",
+    "license": "AG099BAL",
+    "latitude": "39.72363",
+    "longitude": "3.09074",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Lala",
+    "hostCountry": "Latvia",
+    "license": "",
+    "latitude": "39.52121",
+    "longitude": "2.74401",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73792",
+    "longitude": "3.21884",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/3505",
+    "latitude": "39.52090072631836",
+    "longitude": "3.1209349632263184",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Trace",
+    "hostCountry": "CA",
+    "license": "",
+    "latitude": "39.50877",
+    "longitude": "2.53765",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Paul",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.76428",
+    "longitude": "2.71835",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Tom",
+    "hostCountry": "Mexico",
+    "license": "",
+    "latitude": "39.53322",
+    "longitude": "2.71504",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Josselin",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.908375776586205",
+    "longitude": "3.0832527769749736",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.55379",
+    "longitude": "2.61014",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Lifestylemallorca",
+    "hostCountry": "VT",
+    "license": "",
+    "latitude": "39.56883",
+    "longitude": "2.6461",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "France",
+    "license": "L12E11666",
+    "latitude": "39.3176",
+    "longitude": "2.99662",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53481",
+    "longitude": "2.37263",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.36447",
+    "longitude": "2.84055",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "VT/107024 (Sa Granada 1) / L1Z",
+    "latitude": "39.52407",
+    "longitude": "3.17377",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Rafaela Belvilla",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.72339",
+    "longitude": "3.08936",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Marco",
+    "hostCountry": "Germany",
+    "license": "21e00024464500",
+    "latitude": "39.620937",
+    "longitude": "2.743375",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Tom",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.513186",
+    "longitude": "2.477605",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Sophie",
+    "hostCountry": "Antigua & Barbuda",
+    "license": "",
+    "latitude": "39.5821",
+    "longitude": "2.47137",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Frank & Susanne",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36093",
+    "longitude": "3.06863",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "VT1877BAL",
+    "latitude": "39.521748",
+    "longitude": "2.74286",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/128",
+    "latitude": "39.502396",
+    "longitude": "2.919367",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.63273",
+    "longitude": "3.19044",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Clemens",
+    "hostCountry": "Germany",
+    "license": "07030000298148",
+    "latitude": "39.8833",
+    "longitude": "3.03237",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "L18E5286",
+    "latitude": "39.418594",
+    "longitude": "2.74786",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.45229989081582",
+    "longitude": "3.262072472802099",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Asmaa",
+    "hostCountry": "Morocco",
+    "license": "",
+    "latitude": "39.57376149386241",
+    "longitude": "2.672392202580373",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "AG286",
+    "latitude": "39.36438",
+    "longitude": "2.99049",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Inneke",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.84065",
+    "longitude": "3.16071",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Carsten",
+    "hostCountry": "Switzerland",
+    "license": "L12E9555",
+    "latitude": "39.71701",
+    "longitude": "3.46044",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Thorsten",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73498",
+    "longitude": "3.28134",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Tina",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.53233",
+    "longitude": "2.56561",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Steph",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.33527",
+    "longitude": "3.13764",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.33034",
+    "longitude": "3.17162",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Boris",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.605446",
+    "longitude": "3.388643",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Julia",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.58617534060267",
+    "longitude": "3.389941154249674",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Maria",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.51934",
+    "longitude": "2.48038",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "VTV128BAL",
+    "latitude": "39.81465",
+    "longitude": "2.98555",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Patrick",
+    "hostCountry": "Germany",
+    "license": "ETV/01004",
+    "latitude": "39.62689",
+    "longitude": "3.27595",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Emma",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.450233",
+    "longitude": "3.270642",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "William",
+    "hostCountry": "Belgium",
+    "license": "Tcm-4",
+    "latitude": "39.83704",
+    "longitude": "3.15199",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "AG/319",
+    "latitude": "39.46262",
+    "longitude": "3.06308",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Sven Und Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.41580459206399",
+    "longitude": "3.2488394156098366",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Susanne",
+    "hostCountry": "Germany",
+    "license": "Lizenz Nr.  VT/106224",
+    "latitude": "39.37731",
+    "longitude": "3.23836",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.6059",
+    "longitude": "3.38683",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "DRIAT LRE6696",
+    "latitude": "39.91543",
+    "longitude": "3.04925",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Claus",
+    "hostCountry": "Germany",
+    "license": "56/2022/ETVPL",
+    "latitude": "39.69152",
+    "longitude": "3.35299",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Oliver",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.5663",
+    "longitude": "3.37045",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.33188382761649",
+    "longitude": "3.142382002480189",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/1997",
+    "latitude": "39.72071362984577",
+    "longitude": "3.417489379470794",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2015/855",
+    "latitude": "39.71033451716139",
+    "longitude": "3.457847146032691",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Katja",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.67506",
+    "longitude": "3.34952",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VT/107097",
+    "latitude": "39.66575622558594",
+    "longitude": "3.0761098861694336",
+    "location": "Maria de la Salut"
+  },
+  {
+    "hostName": "Oliver",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.377926",
+    "longitude": "3.239582",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Seneida",
+    "hostCountry": "Dominican Republic",
+    "license": "",
+    "latitude": "39.58312331604224",
+    "longitude": "2.6600784138260414",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "6435/ 2017",
+    "latitude": "39.876568",
+    "longitude": "3.013017",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "826/2015/ET",
+    "latitude": "39.55856739322156",
+    "longitude": "3.3617670057434452",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Cyril",
+    "hostCountry": "Brazil",
+    "license": "",
+    "latitude": "39.52121",
+    "longitude": "2.46969",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "8904/20.04.2017",
+    "latitude": "39.859253",
+    "longitude": "3.053163",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-864",
+    "latitude": "39.38688",
+    "longitude": "3.22406",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.85314",
+    "longitude": "3.11846",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Philipe",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.67187568839849",
+    "longitude": "2.919924192222026",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "Elviss",
+    "hostCountry": "Latvia",
+    "license": "",
+    "latitude": "39.64907",
+    "longitude": "3.37745",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Tomas",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.70150944112557",
+    "longitude": "3.0158096487654",
+    "location": "Llubí"
+  },
+  {
+    "hostName": "Paul",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.89463",
+    "longitude": "3.07359",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Adel",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.52462",
+    "longitude": "2.54039",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Lucy",
+    "hostCountry": "United Kingdom",
+    "license": "L12E2323/2019",
+    "latitude": "39.84213",
+    "longitude": "3.13086",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "5900 de 21 julio 2017",
+    "latitude": "39.84282",
+    "longitude": "3.03828",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Andrea",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3669484",
+    "longitude": "3.22704",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Lucy",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.89630665304961",
+    "longitude": "3.020372614411464",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Ada",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.42830039765734",
+    "longitude": "3.230011879621384",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Alina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36403",
+    "longitude": "2.8755",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Carla",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.91199",
+    "longitude": "3.09568",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Alexander",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.54248",
+    "longitude": "3.33498",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-188",
+    "latitude": "39.371596790649",
+    "longitude": "3.2277582585812",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Rafaela Belvilla",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.72372715540582",
+    "longitude": "3.0891418946275695",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.853337167494",
+    "longitude": "3.0445834825561",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "David",
+    "hostCountry": "United Arab Emirates",
+    "license": "",
+    "latitude": "39.91309",
+    "longitude": "3.08437",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Luz Maria",
+    "hostCountry": "Cuba",
+    "license": "H/1464",
+    "latitude": "39.31878",
+    "longitude": "2.99951",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Katja",
+    "hostCountry": "Germany",
+    "license": "L95E15687/2017",
+    "latitude": "39.43193",
+    "longitude": "3.15817",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.91162",
+    "longitude": "3.07665",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jean,Marc,Noel",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.57795",
+    "longitude": "2.39568",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Tony",
+    "hostCountry": "Malaysia",
+    "license": "",
+    "latitude": "39.90086",
+    "longitude": "3.07106",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Georgia",
+    "hostCountry": "Canada",
+    "license": "",
+    "latitude": "39.91749",
+    "longitude": "3.05631",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Colm",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.76581",
+    "longitude": "2.71326",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG 344",
+    "latitude": "39.75222",
+    "longitude": "3.11408",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Axel",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.69712",
+    "longitude": "2.93528",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "VTV0239 BAL",
+    "latitude": "39.92068",
+    "longitude": "3.05537",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-183",
+    "latitude": "39.36205",
+    "longitude": "3.22663",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.876652",
+    "longitude": "3.014424",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-155",
+    "latitude": "39.36651",
+    "longitude": "3.22732",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Alfredo",
+    "hostCountry": "United Kingdom",
+    "license": "L12E1492",
+    "latitude": "39.82959",
+    "longitude": "3.10625",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83242",
+    "longitude": "3.1115",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Saskia",
+    "hostCountry": "Germany",
+    "license": "ETV",
+    "latitude": "39.48393",
+    "longitude": "3.08422",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Moriya",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.69598",
+    "longitude": "3.01764",
+    "location": "Llubí"
+  },
+  {
+    "hostName": "Gilles & Birgit",
+    "hostCountry": "France",
+    "license": "L12EI2920",
+    "latitude": "39.70358",
+    "longitude": "3.4534",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Ariane",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.7115",
+    "longitude": "3.46383",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E7808",
+    "latitude": "39.83755",
+    "longitude": "3.0558",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.67335",
+    "longitude": "2.95122",
+    "location": "Costitx"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3359567",
+    "longitude": "3.1360699",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Sebastian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.58729587479384",
+    "longitude": "3.3769162371754646",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/248",
+    "latitude": "39.66051",
+    "longitude": "2.93541",
+    "location": "Costitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.37412",
+    "longitude": "3.22402",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Tobias",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.60755",
+    "longitude": "3.32041",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "DRIAT",
+    "latitude": "39.524357",
+    "longitude": "3.174754",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Gerald",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.70698",
+    "longitude": "3.11367",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV2101/2006",
+    "latitude": "39.83424",
+    "longitude": "3.05692",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Hamilton",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.36669",
+    "longitude": "3.22411",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.63214",
+    "longitude": "3.19153",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83798",
+    "longitude": "3.15184",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Laetitia",
+    "hostCountry": "United Kingdom",
+    "license": "ETVPL/14832 Editar",
+    "latitude": "39.52648",
+    "longitude": "3.31617",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Fabrice & Myriam",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.5422",
+    "longitude": "3.33648",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "TI/138",
+    "latitude": "39.7359475",
+    "longitude": "3.0584363",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Kate",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.90689",
+    "longitude": "3.08146",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETPVL/13139",
+    "latitude": "39.81558",
+    "longitude": "3.11602",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.87715",
+    "longitude": "3.01743",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "Czechia",
+    "license": "",
+    "latitude": "39.778987596488854",
+    "longitude": "2.9568774381742675",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.87811",
+    "longitude": "3.01696",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ET/4244",
+    "latitude": "39.87825",
+    "longitude": "3.01794",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.73238",
+    "longitude": "3.23118",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E8365",
+    "latitude": "39.7456",
+    "longitude": "3.12352",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Marc T.",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.63840750000001",
+    "longitude": "3.4348509",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Fabian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.71939",
+    "longitude": "3.46272",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Jana",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.57048",
+    "longitude": "2.64854",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "10606",
+    "latitude": "39.8346555",
+    "longitude": "3.1198703000000023",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Timm",
+    "hostCountry": "Germany",
+    "license": "N.I.E. Y7307589-C",
+    "latitude": "39.69427",
+    "longitude": "3.35229",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Ian",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83109",
+    "longitude": "3.0274",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Ralf",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.67842",
+    "longitude": "3.36016",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "ET+3582",
+    "latitude": "39.858127382549",
+    "longitude": "3.0524852871895",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "VT/100951",
+    "latitude": "39.85773468017578",
+    "longitude": "3.023315906524658",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-02529",
+    "latitude": "39.88663",
+    "longitude": "3.05687",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L95E18140",
+    "latitude": "39.74549",
+    "longitude": "3.12121",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Lorenzo",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.56385",
+    "longitude": "2.63953",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Jesus",
+    "hostCountry": "Portugal",
+    "license": "",
+    "latitude": "39.78079",
+    "longitude": "2.74076",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Ann-Kristin",
+    "hostCountry": "Germany",
+    "license": "654/2021/etv",
+    "latitude": "39.36607",
+    "longitude": "2.93294",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Sandy",
+    "hostCountry": "Belgium",
+    "license": "DRIAT 8502/2017",
+    "latitude": "39.56916",
+    "longitude": "2.42248",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-144",
+    "latitude": "39.36844",
+    "longitude": "3.21884",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.57044758938901",
+    "longitude": "3.210212469170842",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Hauke",
+    "hostCountry": "Germany",
+    "license": "L18E2290",
+    "latitude": "39.91028",
+    "longitude": "3.08409",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG167",
+    "latitude": "39.66271",
+    "longitude": "3.06614",
+    "location": "Maria de la Salut"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "ETVPL 14278",
+    "latitude": "39.60865",
+    "longitude": "3.39027",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Mirelle",
+    "hostCountry": "CA",
+    "license": "",
+    "latitude": "39.5389927",
+    "longitude": "2.579345",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.85676",
+    "longitude": "3.06495",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Judith",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.58862",
+    "longitude": "3.33216",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Selina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.42315",
+    "longitude": "3.2319",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ETPVL/12846",
+    "latitude": "39.76385",
+    "longitude": "3.16009",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/528",
+    "latitude": "39.88884",
+    "longitude": "3.01861",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Ehad Tufan",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7216248616639",
+    "longitude": "2.910188953482031",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Christiane",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.83211",
+    "longitude": "3.10784",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "VTV 0479 BAL.",
+    "latitude": "39.57117",
+    "longitude": "3.30098",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36560821636626",
+    "longitude": "3.220127228442391",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Verena",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.42372",
+    "longitude": "3.2588",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG167",
+    "latitude": "39.66268",
+    "longitude": "3.06612",
+    "location": "Maria de la Salut"
+  },
+  {
+    "hostName": "Emerald Stay",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.85356",
+    "longitude": "3.12484",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Vincent",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.91593",
+    "longitude": "3.05123",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "L12E3561",
+    "latitude": "39.8991",
+    "longitude": "3.07908",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Katharina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36603",
+    "longitude": "3.22245",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2982",
+    "latitude": "39.759101",
+    "longitude": "2.939891",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/00014",
+    "latitude": "39.86313",
+    "longitude": "3.0424",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Thomas",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.84038",
+    "longitude": "3.15281",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36965",
+    "longitude": "3.22861",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Jon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.5262",
+    "longitude": "2.4823",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Lara",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.57215",
+    "longitude": "2.63056",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Kurt Klaus",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3739",
+    "longitude": "3.22698",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/248",
+    "latitude": "39.660625",
+    "longitude": "2.935358",
+    "location": "Costitx"
+  },
+  {
+    "hostName": "Marilisa",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.36290590000001",
+    "longitude": "2.8360843",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Emerald Stay",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.87643",
+    "longitude": "3.01492",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV864BAL",
+    "latitude": "39.90145",
+    "longitude": "3.05873",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VT/101926",
+    "latitude": "39.89351",
+    "longitude": "3.02802",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Poplidays",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.767799",
+    "longitude": "3.150569",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0196BAL",
+    "latitude": "39.88036",
+    "longitude": "3.0476",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Beatrice",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.36722",
+    "longitude": "2.93155",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Dimitry",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.6693",
+    "longitude": "3.43895",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.77416",
+    "longitude": "2.73409",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Michaela",
+    "hostCountry": "Germany",
+    "license": "EVPL/15453",
+    "latitude": "39.36245",
+    "longitude": "3.23003",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Sabrina",
+    "hostCountry": "Germany",
+    "license": "ETV47/86",
+    "latitude": "39.7605359926432",
+    "longitude": "3.1649399176239967",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2688",
+    "latitude": "39.75501606767806",
+    "longitude": "3.1071900754882336",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Lynn",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.37942",
+    "longitude": "3.23846",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.69457",
+    "longitude": "3.35492",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.61126",
+    "longitude": "3.11244",
+    "location": "Petra"
+  },
+  {
+    "hostName": "Villas",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.90421",
+    "longitude": "3.08067",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2089",
+    "latitude": "39.8372484719026",
+    "longitude": "3.07529747486115",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Max",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.78502",
+    "longitude": "2.96082",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-159",
+    "latitude": "39.36701",
+    "longitude": "3.22629",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Andy",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.8930174",
+    "longitude": "3.0154993",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.85689",
+    "longitude": "3.10333",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2483",
+    "latitude": "39.77920560210608",
+    "longitude": "2.9372733609161514",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.64804",
+    "longitude": "3.11182",
+    "location": "Ariany"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-1406",
+    "latitude": "39.36764",
+    "longitude": "3.22014",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Emerald Stay",
+    "hostCountry": "Switzerland",
+    "license": "381 - 19/6/15",
+    "latitude": "39.877882369389496",
+    "longitude": "3.0156984266742044",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "AG/89",
+    "latitude": "39.56724",
+    "longitude": "2.42103",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Heiko",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52112307344996",
+    "longitude": "3.308920388962904",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Valérie",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.36983",
+    "longitude": "3.22603",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Ursula",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.893898175925976",
+    "longitude": "3.0119229064568853",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.34957",
+    "longitude": "3.18505",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Monika",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.76829",
+    "longitude": "2.91593",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Giacomo",
+    "hostCountry": "Norway",
+    "license": "",
+    "latitude": "39.90396",
+    "longitude": "3.08745",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Marylene&Quentin",
+    "hostCountry": "France",
+    "license": "ET/2836",
+    "latitude": "39.86062",
+    "longitude": "3.15298",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "L12E4616/2016",
+    "latitude": "39.8567507175613",
+    "longitude": "3.0281751889531066",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Katharina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3646",
+    "longitude": "3.2233",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.74749",
+    "longitude": "2.98652",
+    "location": "Búger"
+  },
+  {
+    "hostName": "Isa Und Stefan",
+    "hostCountry": "Germany",
+    "license": "ET/3319 - Can Capelli",
+    "latitude": "39.77798080444336",
+    "longitude": "3.006661891937256",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Nicola",
+    "hostCountry": "Uruguay",
+    "license": "",
+    "latitude": "39.84223249518521",
+    "longitude": "3.1324017710404797",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Carlos",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.62301",
+    "longitude": "3.02487",
+    "location": "Sineu"
+  },
+  {
+    "hostName": "Karen",
+    "hostCountry": "United Kingdom",
+    "license": "L12E4983",
+    "latitude": "39.90389",
+    "longitude": "3.07132",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73831",
+    "longitude": "3.22262",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET-1925",
+    "latitude": "39.38844",
+    "longitude": "3.23699",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-416",
+    "latitude": "39.3609",
+    "longitude": "3.22144",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "7072/2017",
+    "latitude": "39.877502",
+    "longitude": "3.014706",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/839",
+    "latitude": "39.63972",
+    "longitude": "3.00905",
+    "location": "Sineu"
+  },
+  {
+    "hostName": "Adrian",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.37634",
+    "longitude": "3.22965",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Markus",
+    "hostCountry": "Switzerland",
+    "license": "DRIAT-L12E 11324",
+    "latitude": "39.3736",
+    "longitude": "3.2379",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Maria",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.62540000945325",
+    "longitude": "3.2794833031799353",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Jean Louis",
+    "hostCountry": "Mexico",
+    "license": "",
+    "latitude": "39.87549257111259",
+    "longitude": "3.0447014997528044",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.91167",
+    "longitude": "3.0967",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETVPL14273",
+    "latitude": "39.9034",
+    "longitude": "3.07064",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Luca",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.363613",
+    "longitude": "2.837025",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Claudio",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.76446",
+    "longitude": "3.16068",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Maria-Angela",
+    "hostCountry": "Germany",
+    "license": "L12E13717",
+    "latitude": "39.69331",
+    "longitude": "3.35097",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "L12E2875",
+    "latitude": "39.90620833716038",
+    "longitude": "3.0806694366037846",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jacob",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.6559",
+    "longitude": "3.10011",
+    "location": "Ariany"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV102888",
+    "latitude": "39.91643",
+    "longitude": "3.05631",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-1535",
+    "latitude": "39.36366",
+    "longitude": "3.23183",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Florencia",
+    "hostCountry": "Germany",
+    "license": "L12E3736",
+    "latitude": "39.54502",
+    "longitude": "3.33642",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV-1503",
+    "latitude": "39.35951",
+    "longitude": "3.22301",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/01534",
+    "latitude": "39.79121",
+    "longitude": "2.89502",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Francoise",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.5423469543457",
+    "longitude": "3.333599090576172",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.40879955542095",
+    "longitude": "3.15628426085115",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Claudio",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.76602",
+    "longitude": "3.15479",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.37296",
+    "longitude": "3.22456",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Robin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.50709825545677",
+    "longitude": "2.7518980377662636",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Giovanni",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.84425",
+    "longitude": "3.13106",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Daria",
+    "hostCountry": "Zambia",
+    "license": "",
+    "latitude": "39.90769775813606",
+    "longitude": "3.07292534075463",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Mariona",
+    "hostCountry": "United Kingdom",
+    "license": "535/2013/ET",
+    "latitude": "39.77235",
+    "longitude": "3.02568",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Markus",
+    "hostCountry": "Switzerland",
+    "license": "DRIAT-L12E 11324",
+    "latitude": "39.3714",
+    "longitude": "3.23659",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "L12E14712/2019",
+    "latitude": "39.906033",
+    "longitude": "3.073444",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Andrea",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.75593",
+    "longitude": "2.98382",
+    "location": "Búger"
+  },
+  {
+    "hostName": "Inga",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.577016891645876",
+    "longitude": "2.4181907779098433",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Markus",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36485610349326",
+    "longitude": "2.8565869566527797",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.5971591742187",
+    "longitude": "2.7047987879881057",
+    "location": "Marratxí"
+  },
+  {
+    "hostName": "Miguel",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.51402",
+    "longitude": "2.4796",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Claudia",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.47006201161404",
+    "longitude": "3.148021046934999",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Alex",
+    "hostCountry": "Germany",
+    "license": "Reg. Entrada Num. 2475",
+    "latitude": "39.539352",
+    "longitude": "2.791916",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Charlotte",
+    "hostCountry": "Germany",
+    "license": "ET/3826 BEACH&OCEAN",
+    "latitude": "39.7354",
+    "longitude": "3.21861",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Cyril",
+    "hostCountry": "Brazil",
+    "license": "",
+    "latitude": "39.49427",
+    "longitude": "2.47665",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Clare",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.87982539708106",
+    "longitude": "3.0169278607131966",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Timm",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.55562",
+    "longitude": "3.04024",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/2020",
+    "latitude": "39.534570638062625",
+    "longitude": "2.8567504613271653",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Natalia",
+    "hostCountry": "United Kingdom",
+    "license": "VILLA SON GUAL 25 ET/2452",
+    "latitude": "39.56213",
+    "longitude": "2.81879",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/247",
+    "latitude": "39.678108",
+    "longitude": "2.905625",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/146",
+    "latitude": "39.601368",
+    "longitude": "3.171602",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Corinna",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.75616",
+    "longitude": "2.90273",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Jonathon",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.559517853520404",
+    "longitude": "2.6763896125089284",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV1625 1626",
+    "latitude": "39.692326",
+    "longitude": "3.313817",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.64597",
+    "longitude": "2.9004",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "Florian",
+    "hostCountry": "Germany",
+    "license": "200110217027",
+    "latitude": "39.36338385908885",
+    "longitude": "2.8363333576721006",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Klaus",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36429",
+    "longitude": "2.87317",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Mariska",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.55279",
+    "longitude": "2.60154",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Vera",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.68408",
+    "longitude": "3.35947",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Andy",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.52007",
+    "longitude": "2.48179",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Claudia",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.8260945",
+    "longitude": "3.0812266",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "L18E5286",
+    "latitude": "39.4199",
+    "longitude": "2.74834",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "L12E6644",
+    "latitude": "39.85437",
+    "longitude": "2.94622",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0558BAL",
+    "latitude": "39.8663",
+    "longitude": "3.00474",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Francoise",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.57375",
+    "longitude": "3.23115",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Armin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5351",
+    "longitude": "2.44561",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "AG286",
+    "latitude": "39.36438",
+    "longitude": "2.99049",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Alejandro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.50375",
+    "longitude": "2.47129",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0008BAL",
+    "latitude": "39.91599",
+    "longitude": "3.05138",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Chloe",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.49589",
+    "longitude": "2.53444",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Nahomie",
+    "hostCountry": "FL",
+    "license": "",
+    "latitude": "39.73486943525184",
+    "longitude": "3.2299166280972957",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Nicolas",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.77802276611328",
+    "longitude": "2.695255994796753",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Laetitia",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-15116",
+    "latitude": "39.36006",
+    "longitude": "3.22842",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L95E18140",
+    "latitude": "39.74641",
+    "longitude": "3.12226",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Angela",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.74818",
+    "longitude": "2.6465",
+    "location": "Deyá"
+  },
+  {
+    "hostName": "Giovanni",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.84397720739489",
+    "longitude": "3.1335083924875677",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3716178",
+    "longitude": "3.2200645",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Jesus",
+    "hostCountry": "Portugal",
+    "license": "",
+    "latitude": "39.78944926937675",
+    "longitude": "2.694359473541277",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/3617",
+    "latitude": "39.68700159999999",
+    "longitude": "3.4464000000000397",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.85813",
+    "longitude": "3.10903",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Elke",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36573",
+    "longitude": "2.87113",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Noel",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.55747",
+    "longitude": "3.3073",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "2022016ET",
+    "latitude": "39.687017",
+    "longitude": "2.514421",
+    "location": "Banyalbufar"
+  },
+  {
+    "hostName": "Ana",
+    "hostCountry": "Germany",
+    "license": "L12S797/2019",
+    "latitude": "39.37093",
+    "longitude": "3.22331",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Katharina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.34505254184647",
+    "longitude": "3.078545965254307",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Jonathon",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.56071871056348",
+    "longitude": "2.674841237928482",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.4087",
+    "longitude": "3.25855",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/535",
+    "latitude": "39.87187",
+    "longitude": "3.08261",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Hans-Joachim",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.47291742881491",
+    "longitude": "2.8308253339325025",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Gisella",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.3742",
+    "longitude": "3.23553",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Aegina",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.53602",
+    "longitude": "2.57187",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Dörte",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5035",
+    "longitude": "2.75139",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.366458050135996",
+    "longitude": "3.2217896988342987",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Claude",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.83794",
+    "longitude": "3.1097",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Laila",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.64678",
+    "longitude": "3.3769",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1734",
+    "latitude": "39.6039672",
+    "longitude": "3.3790854",
+    "location": "Son Servera"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "Poland",
+    "license": "",
+    "latitude": "39.68106",
+    "longitude": "3.45304",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5988",
+    "longitude": "2.58961",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Claudio",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.55185",
+    "longitude": "2.60759",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Sarah",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.859246879075734",
+    "longitude": "3.1538788878357016",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Mak",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.41970013886672",
+    "longitude": "3.1347373379858485",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.879186187131815",
+    "longitude": "3.0202739124423035",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET/2484",
+    "latitude": "39.57845",
+    "longitude": "3.36343",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/4583",
+    "latitude": "39.51828",
+    "longitude": "3.30204",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Lars",
+    "hostCountry": "Norway",
+    "license": "",
+    "latitude": "39.89157",
+    "longitude": "3.07642",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV2104/2006",
+    "latitude": "39.83706",
+    "longitude": "3.05611",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "ETV/01542",
+    "latitude": "39.74087",
+    "longitude": "2.98254",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Tom",
+    "hostCountry": "Germany",
+    "license": "ET/1111",
+    "latitude": "39.51306",
+    "longitude": "3.19473",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET/0266",
+    "latitude": "39.86375",
+    "longitude": "3.01041",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "ET/3533",
+    "latitude": "39.646767",
+    "longitude": "2.908542",
+    "location": "Sencelles"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "L12E2104/2017",
+    "latitude": "39.321903",
+    "longitude": "3.136227",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "F.",
+    "hostCountry": "Germany",
+    "license": "VT 1972/2013",
+    "latitude": "39.33142",
+    "longitude": "3.10503",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Kai",
+    "hostCountry": "Mexico",
+    "license": "",
+    "latitude": "39.69569",
+    "longitude": "3.419",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Alexander",
+    "hostCountry": "Denmark",
+    "license": "",
+    "latitude": "39.47482618805679",
+    "longitude": "2.828219651227668",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Marcel",
+    "hostCountry": "Germany",
+    "license": "ET/3033",
+    "latitude": "39.40335958139455",
+    "longitude": "3.158063171284109",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.87682",
+    "longitude": "3.013525",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Bente",
+    "hostCountry": "Denmark",
+    "license": "",
+    "latitude": "39.60018",
+    "longitude": "3.38319",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Jackie",
+    "hostCountry": "United Kingdom",
+    "license": "LIZE 2684",
+    "latitude": "39.57668",
+    "longitude": "2.41562",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/01661",
+    "latitude": "39.731",
+    "longitude": "3.05015",
+    "location": "Muro"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/22",
+    "latitude": "39.331081",
+    "longitude": "3.018789",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "My Rental Homes",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.8593",
+    "longitude": "3.0239",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-42",
+    "latitude": "39.36049",
+    "longitude": "3.22162",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Robyn",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.47563",
+    "longitude": "2.88985",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.770445",
+    "longitude": "3.119874",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7345135",
+    "longitude": "3.2162045",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Family",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.353857844162064",
+    "longitude": "3.152225201750074",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Alex",
+    "hostCountry": "Norway",
+    "license": "",
+    "latitude": "39.76491",
+    "longitude": "3.15241",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.9110349",
+    "longitude": "3.0880951",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.71212",
+    "longitude": "2.61607",
+    "location": "Valldemossa"
+  },
+  {
+    "hostName": "Alexandra",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.86072",
+    "longitude": "3.01103",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83266",
+    "longitude": "3.11226",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.739253947774735",
+    "longitude": "3.0499416463750175",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Stefan",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.5229587",
+    "longitude": "2.4847405",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Keys2Casa",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.57244001986774",
+    "longitude": "2.646219585369037",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Fabrice",
+    "hostCountry": "Germany",
+    "license": "5382",
+    "latitude": "39.527386",
+    "longitude": "2.467304",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG167",
+    "latitude": "39.6627",
+    "longitude": "3.06584",
+    "location": "Maria de la Salut"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.712525",
+    "longitude": "3.109289",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Luisa",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36639",
+    "longitude": "2.86885",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Luke",
+    "hostCountry": "NY",
+    "license": "",
+    "latitude": "39.77680295380377",
+    "longitude": "2.66670335246205",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.33673",
+    "longitude": "3.13536",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Pedro",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.86323",
+    "longitude": "3.13994",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/2949",
+    "latitude": "39.78532332784761",
+    "longitude": "2.9596912638626236",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Max",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.78226189146347",
+    "longitude": "2.9629696968752612",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.57231625344875",
+    "longitude": "2.6528259349067564",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "My Rental Homes",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.88455",
+    "longitude": "3.01355",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Michael",
+    "hostCountry": "Germany",
+    "license": "VT/100199",
+    "latitude": "39.73557",
+    "longitude": "3.05668",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Oliver",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.733350759225914",
+    "longitude": "3.22004148807027",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VT/106803",
+    "latitude": "39.68667",
+    "longitude": "2.51027",
+    "location": "Banyalbufar"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-1130",
+    "latitude": "39.36566",
+    "longitude": "3.22716",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.860455",
+    "longitude": "3.066537",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.742884",
+    "longitude": "3.053736",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Asmaa",
+    "hostCountry": "Morocco",
+    "license": "",
+    "latitude": "39.573653826278466",
+    "longitude": "2.659206721881166",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0005BAL",
+    "latitude": "39.91599",
+    "longitude": "3.05138",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET/3069",
+    "latitude": "39.49514",
+    "longitude": "3.03935",
+    "location": "Porreres"
+  },
+  {
+    "hostName": "Bernie",
+    "hostCountry": "United Kingdom",
+    "license": "A / 2048",
+    "latitude": "39.5388",
+    "longitude": "2.59176",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "DRIAT",
+    "latitude": "39.58799",
+    "longitude": "3.335298",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "3699/ETV",
+    "latitude": "39.87954809236791",
+    "longitude": "3.052073196148024",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Susan",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.3937",
+    "longitude": "3.11349",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Marvin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.561635761934454",
+    "longitude": "2.62645872234058",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Igor",
+    "hostCountry": "Bahamas",
+    "license": "",
+    "latitude": "39.8365478",
+    "longitude": "3.1080802",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/3596",
+    "latitude": "39.64445",
+    "longitude": "2.65974",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Thomas Siegfried",
+    "hostCountry": "Paraguay",
+    "license": "",
+    "latitude": "39.5817982",
+    "longitude": "2.4698999",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0430BAL",
+    "latitude": "39.88073",
+    "longitude": "3.04869",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Olivier",
+    "hostCountry": "France",
+    "license": "L18E15062.",
+    "latitude": "39.55577",
+    "longitude": "2.38293",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.528666",
+    "longitude": "2.955631",
+    "location": "Algaida"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.53357",
+    "longitude": "2.36923",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Jon",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.55479",
+    "longitude": "2.60938",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "CASA ALMEDA 110/2015/ET",
+    "latitude": "39.53706",
+    "longitude": "2.37432",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Silvia",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.55396",
+    "longitude": "2.61109",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/00513",
+    "latitude": "39.44594",
+    "longitude": "3.09621",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Angela",
+    "hostCountry": "Germany",
+    "license": "LIZE 7108/2016",
+    "latitude": "39.32777",
+    "longitude": "3.16649",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Hua",
+    "hostCountry": "Denmark",
+    "license": "",
+    "latitude": "39.52734",
+    "longitude": "2.4676",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53810468405706",
+    "longitude": "2.558633890088159",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Villas",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.91704334226634",
+    "longitude": "3.056104295971158",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Claudio",
+    "hostCountry": "Italy",
+    "license": "",
+    "latitude": "39.5084",
+    "longitude": "2.75027",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET/3924",
+    "latitude": "39.38072",
+    "longitude": "3.22894",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Irais",
+    "hostCountry": "Belgium",
+    "license": "",
+    "latitude": "39.78425",
+    "longitude": "2.74143",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Carole",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.79206",
+    "longitude": "2.68605",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3308828004851",
+    "longitude": "3.171889590899239",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "VT/104531",
+    "latitude": "39.425472",
+    "longitude": "2.745045",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Max",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7803568672443",
+    "longitude": "2.9629020285620693",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Robin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.329178",
+    "longitude": "3.148185",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "VT/104395",
+    "latitude": "39.848336357448",
+    "longitude": "3.0750426650047",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.44008",
+    "longitude": "2.75896",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "ETV o1542",
+    "latitude": "39.74431",
+    "longitude": "2.97775",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "VT/100556",
+    "latitude": "39.7633149",
+    "longitude": "3.1593632999999954",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Julius",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.48087",
+    "longitude": "2.4793",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/22",
+    "latitude": "39.331081",
+    "longitude": "3.018789",
+    "location": "Ses Salines"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Achim",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.492498573213894",
+    "longitude": "2.5270775827636744",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.42810966622093",
+    "longitude": "3.1625281716098157",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Sanne",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.54409",
+    "longitude": "2.55757",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "4942/2022",
+    "latitude": "39.524318",
+    "longitude": "3.310073",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Tatiana - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET754/15",
+    "latitude": "39.36713",
+    "longitude": "2.9423",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Claudio",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.76436",
+    "longitude": "3.16013",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Monika",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.56850378244489",
+    "longitude": "2.4032415077090263",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "TI/138",
+    "latitude": "39.7359475",
+    "longitude": "3.0584363",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.75831100408703",
+    "longitude": "3.1654076914803513",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Brian",
+    "hostCountry": "FL",
+    "license": "",
+    "latitude": "39.4652",
+    "longitude": "3.16032",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Eymen",
+    "hostCountry": "Algeria",
+    "license": "",
+    "latitude": "39.497886981988366",
+    "longitude": "2.7554922397355086",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Maria",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53984",
+    "longitude": "2.57396",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "ET/716/2013",
+    "latitude": "39.75075",
+    "longitude": "2.91069",
+    "location": "Selva"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VT-2154",
+    "latitude": "39.36811",
+    "longitude": "3.22083",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "2016/5782",
+    "latitude": "39.33987",
+    "longitude": "3.09652",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Lewis",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.36981",
+    "longitude": "3.22323",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1308",
+    "latitude": "39.3818779",
+    "longitude": "3.2401948",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Gogi",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.36431",
+    "longitude": "3.2298",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Lucie",
+    "hostCountry": "Canada",
+    "license": "",
+    "latitude": "39.58514",
+    "longitude": "2.45138",
+    "location": "Andratx"
+  },
+  {
+    "hostName": "Tanja",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.52238",
+    "longitude": "3.32122",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Guido",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.42393",
+    "longitude": "3.13062",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Ulrike",
+    "hostCountry": "Germany",
+    "license": "ETV : 7220",
+    "latitude": "39.78295",
+    "longitude": "2.73975",
+    "location": "Fornalutx"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "A1343",
+    "latitude": "39.44814",
+    "longitude": "3.27032",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Angela",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.65407446925946",
+    "longitude": "2.7568136753540293",
+    "location": "Santa María del Camí"
+  },
+  {
+    "hostName": "Angela",
+    "hostCountry": "United Kingdom",
+    "license": "19015811012",
+    "latitude": "39.79645",
+    "longitude": "2.692",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Dorothy",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.78182",
+    "longitude": "2.71289",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/01577",
+    "latitude": "39.91308",
+    "longitude": "3.07493",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG 344",
+    "latitude": "39.75223",
+    "longitude": "3.11408",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ETV/0011",
+    "latitude": "39.37463",
+    "longitude": "3.12527",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Den",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.53915",
+    "longitude": "2.56138",
+    "location": "Calvià"
+  },
+  {
+    "hostName": "Alfonso",
+    "hostCountry": "DC",
+    "license": "",
+    "latitude": "39.872646",
+    "longitude": "3.07372",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Lionel",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.6874977",
+    "longitude": "2.5140588",
+    "location": "Banyalbufar"
+  },
+  {
+    "hostName": "Igor",
+    "hostCountry": "Bahamas",
+    "license": "",
+    "latitude": "39.84037",
+    "longitude": "3.15377",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "643/2013/ET",
+    "latitude": "39.71653",
+    "longitude": "2.85704",
+    "location": "Lloseta"
+  },
+  {
+    "hostName": "Anja",
+    "hostCountry": "Australia",
+    "license": "",
+    "latitude": "39.55698",
+    "longitude": "2.6852",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Felicita",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52622",
+    "longitude": "3.30841",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Pau",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.586601",
+    "longitude": "2.983708",
+    "location": "Montuïri"
+  },
+  {
+    "hostName": "Fabien",
+    "hostCountry": "Germany",
+    "license": "6603/2017",
+    "latitude": "39.47643",
+    "longitude": "3.18009",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Kurt Klaus",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.3703",
+    "longitude": "3.22224",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Shayla",
+    "hostCountry": "United Kingdom",
+    "license": "L12E1179/2017",
+    "latitude": "39.76835",
+    "longitude": "2.71743",
+    "location": "Sóller"
+  },
+  {
+    "hostName": "Ingrid",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.45387275490421",
+    "longitude": "2.744568746721074",
+    "location": "Llucmajor"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-1360",
+    "latitude": "39.40524",
+    "longitude": "3.21323",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "1415/2018/ETV",
+    "latitude": "39.89283",
+    "longitude": "3.05227",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Åsa",
+    "hostCountry": "Sweden",
+    "license": "",
+    "latitude": "39.56002",
+    "longitude": "2.67405",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Finca Mallorca",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.64552",
+    "longitude": "3.42904",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Sue",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.615425",
+    "longitude": "3.286776",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Homerez",
+    "hostCountry": "France",
+    "license": "RE6789",
+    "latitude": "39.559631",
+    "longitude": "3.37094",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/3397",
+    "latitude": "39.69004958252509",
+    "longitude": "3.4217272697143244",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.803699",
+    "longitude": "3.014488",
+    "location": "Sa Pobla"
+  },
+  {
+    "hostName": "Susy - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.671014",
+    "longitude": "3.323618",
+    "location": "Artà"
+  },
+  {
+    "hostName": "Caroline",
+    "hostCountry": "Netherlands",
+    "license": "",
+    "latitude": "39.57348",
+    "longitude": "2.63636",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Natali Katrin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73476",
+    "longitude": "3.2263",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/3747",
+    "latitude": "39.605293",
+    "longitude": "3.080156051",
+    "location": "Petra"
+  },
+  {
+    "hostName": "Marion",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.57415",
+    "longitude": "2.6377",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Bruno",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.5954",
+    "longitude": "3.38288",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Iqbal",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.830220573203356",
+    "longitude": "3.106059611639389",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Cécile",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.87962",
+    "longitude": "3.01646",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Gemma",
+    "hostCountry": "United Kingdom",
+    "license": "L12E-9868",
+    "latitude": "39.89409",
+    "longitude": "3.01654",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Matthias",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.63593",
+    "longitude": "3.21788",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0007BAL",
+    "latitude": "39.91599",
+    "longitude": "3.05138",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-1005",
+    "latitude": "39.37446",
+    "longitude": "3.23892",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "VTV0076BAL",
+    "latitude": "39.8861",
+    "longitude": "3.01343",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.85129",
+    "longitude": "3.00453",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "ETV/01542",
+    "latitude": "39.73856",
+    "longitude": "2.98211",
+    "location": "Inca"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.54135",
+    "longitude": "3.09141",
+    "location": "Porreres"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "Poland",
+    "license": "",
+    "latitude": "39.57723",
+    "longitude": "3.37086",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Mariana",
+    "hostCountry": "Germany",
+    "license": "L12E2367",
+    "latitude": "39.52168",
+    "longitude": "3.31531",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "27593/2023",
+    "latitude": "39.9199799",
+    "longitude": "3.0530228",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Luigi",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.57273",
+    "longitude": "2.63689",
+    "location": "Palma de Mallorca"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ETV/0610",
+    "latitude": "39.5732165",
+    "longitude": "3.3715752",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETVPL14271",
+    "latitude": "39.90355",
+    "longitude": "3.06848",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Isabel",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.52353",
+    "longitude": "3.31358",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.448025",
+    "longitude": "3.276118",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Katharina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.366856",
+    "longitude": "3.218493",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Christian",
+    "hostCountry": "Germany",
+    "license": "ETV/7065",
+    "latitude": "39.71488",
+    "longitude": "3.06322",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV-758",
+    "latitude": "39.36013",
+    "longitude": "3.22128",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "Poland",
+    "license": "",
+    "latitude": "39.57666",
+    "longitude": "3.36988",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.34133",
+    "longitude": "3.17858",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.71721",
+    "longitude": "3.4661",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Yanis",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36229654452522",
+    "longitude": "2.9497023306884618",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Hans-Joachim",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.70181",
+    "longitude": "3.43291",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Christine",
+    "hostCountry": "Germany",
+    "license": "ETV PL/15587",
+    "latitude": "39.900883",
+    "longitude": "3.075483",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Arndt",
+    "hostCountry": "Germany",
+    "license": "ETV Nr. 1030/2015/ET",
+    "latitude": "39.31994",
+    "longitude": "3.12615",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Thomas",
+    "hostCountry": "Germany",
+    "license": "ET/2240",
+    "latitude": "39.38572",
+    "longitude": "2.95706",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Markus",
+    "hostCountry": "Switzerland",
+    "license": "DRIAT-L12E 11324",
+    "latitude": "39.37332",
+    "longitude": "3.23795",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Robin",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.59759",
+    "longitude": "3.29894",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Jörg",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.335873",
+    "longitude": "3.136263",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anke",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.67929",
+    "longitude": "3.4404",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Jesus",
+    "hostCountry": "Portugal",
+    "license": "",
+    "latitude": "39.87471",
+    "longitude": "2.9943",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Heidi",
+    "hostCountry": "Australia",
+    "license": "",
+    "latitude": "39.91959",
+    "longitude": "3.05954",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Antonio L",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.70122",
+    "longitude": "3.43222",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36463",
+    "longitude": "3.22039",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73136",
+    "longitude": "3.23239",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Rebekka - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET/2484",
+    "latitude": "39.578518",
+    "longitude": "3.363606",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Holiday Travel Channel",
+    "hostCountry": "United Kingdom",
+    "license": "L12E9390",
+    "latitude": "39.73732",
+    "longitude": "3.21922",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Anna",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.34215",
+    "longitude": "3.18088",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Anne",
+    "hostCountry": "Italy",
+    "license": "ETV 1304/2017",
+    "latitude": "39.34993523525792",
+    "longitude": "3.1296087502624337",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Fabian",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.7177",
+    "longitude": "3.46393",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Ines",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.57069778442383",
+    "longitude": "3.0879650115966797",
+    "location": "Vilafranc de Bonany"
+  },
+  {
+    "hostName": "Lifestylemallorca",
+    "hostCountry": "VT",
+    "license": "SEASIDE 1359/2017/ET License number ETV/9635",
+    "latitude": "39.67849906944414",
+    "longitude": "3.4550267753662167",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Laura - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "212 E 8924",
+    "latitude": "39.36438",
+    "longitude": "2.99049",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Zoltan",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.46548",
+    "longitude": "3.27611",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Barbara",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.71233",
+    "longitude": "3.41159",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "DRIAT 6939 03/09  2018",
+    "latitude": "39.919498",
+    "longitude": "3.055493",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.77286",
+    "longitude": "2.9536",
+    "location": "Campanet"
+  },
+  {
+    "hostName": "Marta",
+    "hostCountry": "Poland",
+    "license": "180114628549 numero de registro",
+    "latitude": "39.57571",
+    "longitude": "3.37112",
+    "location": "Sant Llorenç des Cardassar"
+  },
+  {
+    "hostName": "Rudolf",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.41793",
+    "longitude": "2.96537",
+    "location": "Campos"
+  },
+  {
+    "hostName": "Wilfried",
+    "hostCountry": "Germany",
+    "license": "ETV/2636 und ETV/2644",
+    "latitude": "39.478451",
+    "longitude": "3.249699",
+    "location": "Manacor"
+  },
+  {
+    "hostName": "Christian",
+    "hostCountry": "Austria",
+    "license": "",
+    "latitude": "39.65660994801277",
+    "longitude": "3.4393951492126584",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "AT/1535",
+    "latitude": "39.6587956",
+    "longitude": "3.4391668",
+    "location": "Capdepera"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG 344",
+    "latitude": "39.75222",
+    "longitude": "3.11407",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Buchungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73351",
+    "longitude": "3.22806",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET/0390",
+    "latitude": "39.88773",
+    "longitude": "3.02789",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "ET/2356",
+    "latitude": "39.84839",
+    "longitude": "3.09322",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Vermietungsservice SECRA Bookings",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.73432",
+    "longitude": "3.22882",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Nino",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36522",
+    "longitude": "3.22318",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "John",
+    "hostCountry": "U.S. Virgin Islands",
+    "license": "ET/3260",
+    "latitude": "39.38665297014451",
+    "longitude": "3.208918679368619",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Laure",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.35794",
+    "longitude": "3.22228",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Holidu",
+    "hostCountry": "Germany",
+    "license": "ET/1043",
+    "latitude": "39.9184032",
+    "longitude": "3.0519705000000386",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Freelance Villas",
+    "hostCountry": "United Kingdom",
+    "license": "ETV/062",
+    "latitude": "39.72089",
+    "longitude": "3.14971",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Thomas",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.83708",
+    "longitude": "3.15363",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "2576/16/03/2016",
+    "latitude": "39.70814",
+    "longitude": "3.11322",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "David",
+    "hostCountry": "United Arab Emirates",
+    "license": "",
+    "latitude": "39.91256",
+    "longitude": "3.08615",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Emma",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.87983",
+    "longitude": "3.01501",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Richard",
+    "hostCountry": "United Kingdom",
+    "license": "VT/104396",
+    "latitude": "39.84845",
+    "longitude": "3.0747",
+    "location": "Alcúdia"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ETV236BAL",
+    "latitude": "39.84301",
+    "longitude": "3.03844",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "AG 344",
+    "latitude": "39.75222",
+    "longitude": "3.11408",
+    "location": "Muro"
+  },
+  {
+    "hostName": "Tanja",
+    "hostCountry": "Germany",
+    "license": "AT588",
+    "latitude": "39.37459",
+    "longitude": "3.23216",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Björn",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.37455",
+    "longitude": "3.219934",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "James",
+    "hostCountry": "United Kingdom",
+    "license": "AG/248",
+    "latitude": "39.660625",
+    "longitude": "2.935358",
+    "location": "Costitx"
+  },
+  {
+    "hostName": "Linda - BELVILLA",
+    "hostCountry": "Switzerland",
+    "license": "",
+    "latitude": "39.71036265415662",
+    "longitude": "3.117585492047577",
+    "location": "Santa Margalida"
+  },
+  {
+    "hostName": "Jesus",
+    "hostCountry": "Portugal",
+    "license": "",
+    "latitude": "39.87614",
+    "longitude": "2.99524",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Ileana",
+    "hostCountry": "France",
+    "license": "",
+    "latitude": "39.87966",
+    "longitude": "3.01301",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Ingo",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.36941",
+    "longitude": "3.22146",
+    "location": "Santanyí"
+  },
+  {
+    "hostName": "Solmar",
+    "hostCountry": "United Kingdom",
+    "license": "ET/0971",
+    "latitude": "39.87457",
+    "longitude": "3.05059",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "McCrum",
+    "hostCountry": "United Kingdom",
+    "license": "",
+    "latitude": "39.91344",
+    "longitude": "3.08574",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Jules&Sam",
+    "hostCountry": "United Kingdom",
+    "license": "L12E3754",
+    "latitude": "39.619",
+    "longitude": "2.9845",
+    "location": "Lloret de Vistalegre"
+  },
+  {
+    "hostName": "Anika - Interhome Group",
+    "hostCountry": "Germany",
+    "license": "VTV0551BAL",
+    "latitude": "39.896446",
+    "longitude": "3.065352",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Patricia",
+    "hostCountry": "United Kingdom",
+    "license": "L12E11935",
+    "latitude": "39.40817",
+    "longitude": "3.25863",
+    "location": "Felanitx"
+  },
+  {
+    "hostName": "Yann",
+    "hostCountry": "Luxembourg",
+    "license": "",
+    "latitude": "39.91101",
+    "longitude": "3.08395",
+    "location": "Pollença"
+  },
+  {
+    "hostName": "Martina",
+    "hostCountry": "Germany",
+    "license": "",
+    "latitude": "39.86212622932936",
+    "longitude": "3.1425199834323925",
+    "location": "Alcúdia"
+  }
+]
